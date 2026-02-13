@@ -1,0 +1,9 @@
+{
+  "id": "T004",
+  "type": "alien",
+  "origin_lat": 41.2,
+  "origin_lon": -112.9,
+  "bearing_deg": 135.0,
+  "speed_kmh": 1200,
+  "duration_min": 45
+}
