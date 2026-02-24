@@ -1,273 +1,132 @@
-## State of the Union Address
+# Project 01 — Missile Geometry 101 (World Defense Organization)
 
-From Dr. Griffin: 
+This project is a spatial analysis exercise focused on geometry, not realism.  
+Using simulated threat data, I built geospatial representations (points, lines, polygons) to analyze:
 
-<sub>_Sorry this semester started off so confusing. I've spent way too much time trying to automate and generate iPython notebooks that hold your hand and walk you through lessons. It worked very well in my "Online Intro to Data Science" class last semester. However, I think the information was more conducive to that delivery plus ChatGpt is very helpful for organizing topics and releasing small digestible chunks of information. In addition, the data science course and this course are not upper division and not limited to CS majors. In fact, I was told to create these two courses with non-majors in mind 😳. So, the data science course was a lot smoother than whats going on right now._</sub>
+- where threats originate,
+- where they travel over time,
+- which national borders they intersect,
+- whether they pass dangerously close to the base, and
+- which countries fall inside “damage zones” around predicted impact areas.
 
-
-<sub>_Having said that, I'm taking over from automated content generation, and going back to my own gray matter. Delivery to ya'll will be different. Slack updates, and assignment posts on github for now._</sub>
-
-
-<sub>_Lastly, don't freak out when you read the project. I will still provide starter code, explanations, examples, and zoom with anyone who needs help. The early milestones are pretty straight forward (with a little help), and the project as a whole (when done in steps) is also easier than it may look._</sub>
-
-
-# 🚀 Project 01: Missile Geometry 101  
-
-### *World Defense Organization (WDO)*
-
-You have been 
-
-## 🧠 Scenario
-
-You are a **Spatial Defense Analyst** working for the **World Defense Organization**.
-
-Earth is under threat from **non-human entities**:
-- Alien spacecraft
-- Orbital kinetic weapons
-- High-altitude airborne platforms
-- Kaiju-class ground threats (yes, really)
-
-Your mission is **not** to fire weapons.
-
-Your mission is to **analyze geometry**.
-
-Specifically:
-- Where threats are coming from
-- Where they are going
-- What they intersect
-- Who (or what) might be affected
-
-This project is about **spatial reasoning**, not realism.
+Tools used: **Python, GeoPandas, Shapely, Folium** (no databases, no real-time simulation).
 
 ---
 
-## 🎯 Learning Objectives
+## Project Structure (What’s in this folder)
 
-By the end of this project, you will be able to:
-
-- Represent spatial features as **points, lines, and polygons**
-- Compute **future locations** using bearing and distance
-- Build **trajectories** from simulated movement
-- Determine **spatial relationships** (within, intersects, distance)
-- Verify results using **interactive maps**
-
-If you can *see* it, you can *trust* it.
+- `notebook.ipynb` — main notebook (Milestones 1–5)
+- `src/` — provided helper modules (geo math, IO, mapping helpers, threat simulation)
+- `data/` — world borders + threats
+- `outputs/`
+  - `map_m2.html`, `map_m3.html`, `map_m4.html`, `map_m5.html` — generated interactive maps
+  - `m5_damage_table.csv` — Milestone 5 output dataset (reused in Project 02)
+  - `screenshots/` — required screenshots for each milestone
 
 ---
 
-## 🧰 Tools & Libraries
+# Milestones
 
-You are expected to use:
+## Milestone 1 — Plot the World
+**Goal:** Load world boundaries and display the fixed base location.
 
-- **Python**
-- **GeoPandas**
-- **Shapely**
-- **Folium**
+Screenshot:  
+![Milestone 1](outputs/screenshots/Milestone1%20scree.png)
 
-No JavaScript frameworks.  
-No databases.  
-No real-time simulation.
-
-This is **Missile Geometry 101**, not Star Wars engineering.
+What this demonstrates:
+- World borders loaded successfully
+- Base marker is visible and map interaction (zoom/pan) works
 
 ---
 
-## 🏰 Your Base (Fixed Location)
+## Milestone 2 — Distance & Threat Origins
+**Goal:** Compute distance from each threat origin to the base, identify the closest threat, and map all threat origins.
 
-Each student is assigned **one base location** (lat/lon).
+Outputs:
+- Interactive map: `outputs/map_m2.html`
+- Screenshot:  
+  ![Milestone 2](outputs/screenshots/Milestone2.png)
 
-- This is your **command center**
-- You do not move
-- You defend a large surrounding region
-
-You are responsible for analyzing **multiple incoming threats**.
-
----
-
-## ☄️ Incoming Threats (Simulated)
-
-Threats are generated automatically using provided starter code.
-
-Each threat has:
-
-- `origin_lat`
-- `origin_lon`
-- `bearing` (degrees)
-- `speed` (km per hour)
-- `launch_time`
-- `threat_type`
-  - `"alien"`
-  - `"orbital"`
-  - `"airborne"`
-  - `"kaiju"`
-
-You **do not** generate threats.  
-You **analyze** them.
+What this demonstrates:
+- Numeric spatial reasoning (distance to base)
+- Threat attributes are inspectable and visualized on the map
 
 ---
 
-## 📍 Milestone 1 — Plot the World
+## Milestone 3 — Trajectories (Point → LineString)
+**Goal:** Convert motion into geometry.
 
-**Goal:** Prove you can load and visualize spatial data.
+Method:
+- For each threat, compute a destination point after a fixed time interval
+- Generate intermediate points
+- Build a `LineString` trajectory
+- Plot origins, trajectories, and endpoints
 
-### Tasks
-- Load a world countries shapefile (or GeoJSON)
-- Display it using Folium
-- Add your base location as a point marker
+Outputs:
+- Interactive map: `outputs/map_m3.html`
+- Screenshot:  
+  ![Milestone 3](outputs/screenshots/milestone3screenshot.png)
 
-### Checkpoint Questions
-- Can you clearly identify your base on the map?
-- Does zooming and panning work correctly?
-
-📸 **Screenshot required**
-
----
-
-## 📏 Milestone 2 — Distance & Bearing
-
-**Goal:** Reason about spatial relationships numerically *and* visually.
-
-### Tasks
-- Compute the distance from each threat origin to your base
-- Identify the **closest threat**
-- Display threat origins as points
-
-### Concepts Reinforced
-- Haversine distance
-- Units (degrees vs kilometers)
-- Attribute inspection
-
-📸 **Screenshot required**
+Visual expectations met:
+- Threat start locations are visible (origins)
+- Threat heading/paths are visible (lines and endpoints)
+- Different bearings produce different directions, and different speeds produce different trajectory lengths (for the same time interval)
 
 ---
 
-## ➖ Milestone 3 — Trajectories (Point → Line)
+## Milestone 4 — Intersections & Borders
+**Goal:** Determine what threats interact with.
 
-**Goal:** Turn motion into geometry.
+Method:
+- `intersects`: identify which country polygons each trajectory crosses
+- distance threshold: compute minimum distance from each trajectory to the base
+- visually highlight intersected countries and emphasize “danger close” trajectories
 
-### Tasks
-- For each threat:
-  - Compute a **destination point** after a fixed time interval
-  - Generate intermediate points
-  - Construct a `LineString` trajectory
-- Plot trajectories on the map
+Outputs:
+- Interactive map: `outputs/map_m4.html`
+- Screenshot:  
+  ![Milestone 4](outputs/screenshots/milestone4.png)
 
-### Visual Expectation
-You should clearly see:
-- Where threats started
-- Where they are headed
-- How paths differ by bearing and speed
-
-📸 **Screenshot required**
+What this demonstrates:
+- Spatial relationship queries (`intersects`, distance-to-base threshold)
+- Threat-to-country interactions are visible and verifiable
 
 ---
 
-## 🧱 Milestone 4 — Intersections & Borders
+## Milestone 5 — Damage Zones (Buffers)
+**Goal:** Prepare data for Project 02 by generating threat impact zones.
 
-**Goal:** Determine what the threats interact with.
-
-### Tasks
-- Determine:
-  - Which country polygons each trajectory **intersects**
-  - Whether a trajectory passes **within a threshold distance** of your base
-- Highlight intersected countries on the map
-
-### Spatial Relationships Used
-- `intersects`
-- `within`
-- distance thresholds
-
-📸 **Screenshot required**
-
----
-
-## 💥 Milestone 5 — Damage Zones (The Bridge)
-
-**Goal:** Prepare data for the next project.
-
-### Tasks
-- Create a **buffer zone** around each trajectory endpoint
+Method:
+- Create a buffer around each trajectory endpoint
 - Buffer size depends on `threat_type`
-- Determine which countries fall within damage zones
+- Determine which countries intersect each buffer
+- Output a reusable dataset of affected countries + severity
 
-### Output
-A table like:
+Outputs:
+- Interactive map: `outputs/map_m5.html`
+- Output dataset: `outputs/m5_damage_table.csv`
+- Screenshot:  
+  ![Milestone 5](outputs/screenshots/milestone5.png)
 
-| country | threat_type | severity |
-| ------- | ----------- | -------- |
-
-This dataset will be reused in **Project 02**.
-
-📸 **Screenshot required**
-
----
-
-## 🎨 Visualization Requirements (Non-Negotiable)
-
-Your final map must include:
-
-- World boundaries
-- Base location
-- Threat origins
-- Trajectories
-- Damage buffers (semi-transparent)
-- At least one legend or clear visual explanation
-
-If I can’t understand your analysis by *looking*, it’s not done.
+Table format (example):
+- `country, threat_id, threat_type, severity, buffer_km`
 
 ---
 
-## 🚀 Stretch Goals (Optional but Dangerous)
+# Reflection (What I Learned)
 
-Choose **one**:
+## What surprised me
+The biggest surprise was how quickly “motion” becomes understandable once it’s represented as geometry (LineStrings and buffers). Even without animation, trajectories + endpoints make threat behavior easy to interpret visually.
 
-- Animate threat movement using time steps
-- Color trajectories by threat type
-- Identify **first country impacted** per threat
-- Add altitude metadata (visualized symbolically)
+## What broke
+The main issues were environment/kernel mismatches (missing packages in the notebook kernel) and data formatting assumptions (JSON structure differences). Once the correct kernel and parsing were fixed, everything became much smoother.
 
----
-
-## 📦 What You Turn In
-
-- In your "completed assignments" folder create a subfolder called `Project_01`.
-- It will include a README that professionally describes and organizes the items you turn in. 
-  - It should include any iPython notebooks or Python scripts you wrote while working on your project[^1].
-  - Your generated maps should be included. Screen shots are required for your repo, but we can discuss where you might can host your mapping solutions so they remain available for a while. 
-  -**Screenshots embedded in README** (so you don't forget)
-  - Your Thoughts. And rememember, trying something and failing is a good topic to include. It makes for an interesting project summary or as part of a presentation. (Everyone likes to know that they weren't the only ones to think of a wrong solution)
-    - What surprised you?
-    - What broke?
-    - What suddenly “clicked”?
-  - [COMMENTING CODE](../../Resources/Commenting_Guide/README.md)
-  - [README FILES](../../Resources/Commenting_Guide/python_comments.md)
+## What suddenly clicked
+Once I treated threats as geometry objects:
+- points for origins/endpoints,
+- lines for trajectories,
+- polygons for countries/buffers,  
+then the core questions became straightforward: **intersects()** and **distance()** were enough to answer most of the analysis goals.
 
 ---
 
-## 🧪 Grading Rubric (Condensed)
-
-| Category               | Points  |
-| ---------------------- | ------- |
-| Correct geometry usage | 30      |
-| Spatial relationships  | 25      |
-| Visualization clarity  | 25      |
-| Code organization      | 10      |
-| Reflection quality     | 10      |
-| **Total**              | **100** |
-
----
-
-## 🧠 Final Thought
-
-**This project is not about missiles.**
-
-It’s about **thinking spatially**:
-- Showing Motion (without animation)
-- Interaction (without a gui)
-- Consequences (if the WDO fails)
-
-### Everything else this semester builds on this.
-
-#### Footnotes
-
-[^1]: Even if you have files that you end up not working with, or code that took you away down a wrong path, please include it. This is a project over time. It should have issues, and not all your decisions will be amazing. 
