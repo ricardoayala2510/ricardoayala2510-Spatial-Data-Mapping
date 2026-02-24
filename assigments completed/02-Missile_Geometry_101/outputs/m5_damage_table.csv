@@ -1,0 +1,9 @@
+country,threat_id,threat_type,severity,buffer_km
+United States,T001,alien,High,150
+Mexico,T002,alien,High,150
+Dominican Republic,T005,kaiju,Low,30
+United States,T007,alien,High,150
+United States,T008,airborne,Medium,80
+United States,T009,alien,High,150
+Bolivia,T010,orbital,Extreme,300
+Brazil,T010,orbital,Extreme,300
