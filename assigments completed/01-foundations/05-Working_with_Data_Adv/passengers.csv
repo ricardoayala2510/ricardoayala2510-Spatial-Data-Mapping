@@ -1,0 +1,9 @@
+name,age,gender,fare,survived,cabin
+Alice,23,female,72.5,1,C85
+Bob,35,male,8.05,0,
+Charlie,29,male,13.0,1,E12
+Diana,41,female,26.55,1,
+Evan,19,male,7.75,0,
+Fatima,33,female,53.1,1,B20
+Grace,,female,15.5,1,
+Henry,50,male,31.0,0,C101

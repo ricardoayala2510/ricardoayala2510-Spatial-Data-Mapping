@@ -1,0 +1,6 @@
+student,major,gpa,hours_studied,passed
+Ana,CS,3.8,12,True
+Luis,Math,3.1,8,True
+Mia,Biology,3.9,14,True
+Noah,History,2.6,5,False
+Sara,Physics,,10,True

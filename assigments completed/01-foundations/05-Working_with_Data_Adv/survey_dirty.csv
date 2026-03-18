@@ -1,0 +1,28 @@
+id,name,email,gender,exercise_freq,age,height_cm,weight_kg,satisfaction,consent_given,submitted_at,favorite_color,notes
+1, Alice Johnson , alice.johnson@example.com ,F,Daily,25,165cm,60 kg,5,Yes,2024-03-01 09:15, Blue ,
+2,Bob Smith,bob.smith@example,male,3-5x/week,thirty,180,82kg,4,Y,03/02/2024 10:30,green,likes running
+3,  Carla Gomez,carla.gomez@example.com,Female ,sometimes,29,170 cm, ,3,true,2024/03/03,red,  
+4,David Lee,david.lee@example.com ,M,Never,,175cm,75kg,,No,March 4 2024,black,prefers email
+5,,eva.wang@example.com,female,1-2 times/week,22,160,55,4,yes,2024-03-05T14:20:00,purple,new member
+6,Frank Hall, frank.hall@sample.org,Man,weekly,41,182cm,90kg,2,1,2024-03-06,orange,
+7,Grace Kim,grace.kim@example.com,FEMALE,Every day,27,168,58kg,five,TRUE,2024-13-01,yellow,bad date
+8,Henry Adams,henry.adams@example.net,male,rarely,19,172 cm,68 kg,3,False,2024-03-08 08:00, blue,
+9,Ivy Chen,ivy.chen at example.com,Nonbinary,Often,31,165,54,4,yes,not a date,teal,invalid email
+10,Jack Brown,jack.brown@example.com,M,0,45,170cm,77kg,1,n,2024-03-10,gray,
+11,Kelly Davis,kelly.davis@example.com,girl,Seldom, 33 ,169cm,64kg,4,Yes,2024/03/11 18:45,pink,
+12,Liam Wilson,liam.wilson@example.com,Boy,daily,17,181,70,2,TRUE,2024-03-12,Green,minor
+13,Mona Patel,mona.patel@example.com,Prefer not to say,None,28,158 cm,52kg,,0,2024-03-13 07:30,maroon,
+14,Noah Clark,noah.clark@example.com,male,7x/week,34,190cm,88kg,5,Yes,2024-03-14,navy,
+15,Olivia Martin,olivia.martin@example.com,Female,1-2x/week,26,165 cm,59kg,4,TRUE,04/15/2024,white,
+16,Paul Young,paul.young@example.com,m,unknown,52,177cm,85kg,3,False,,silver,missing timestamp
+17,Quinn Lopez,quinn.lopez@example.com,nb,sometimes,NaN,166,61kg,4,yes,2024-03-17 12:00,gold,
+18,Rita King,rita.king@example.com,woman,3-5 times/week,38,badheight,72 kg,2,Yes,2024-03-18,red,height typo
+19,Sam Torres,sam.torres@example.com,Other,Never,24,173cm,seventy,3,No,2024-03-19,cyan,weight typo
+20,Tina Perez,tina.perez@example.com,female,daily,21,167,57,5,yes,2024-03-20 16:10,,
+20,Tina Perez,tina.perez@example.com,female,daily,21,167,57,5,yes,2024-03-20 16:10,,duplicate id row
+21,,unknown@example.com,F, ,, , , , , ,,all mostly blank
+22,Victor Cruz,victor.cruz@example.com,male,often,60,174 cm,79kg,4,TRUE,2024-03-22,black,
+23, Wendy Scott ,wendy.scott@example.com ,Female,Weekly,23,162cm,56kg,4,Yes,2024-03-23 11:11,lavender,extra spaces
+24,Xavier Reed,xavier.reed@example.org,M,Never,40,185cm,92kg,2,FALSE,2024-03-24,brown,
+25,Yara Flores,yara.flores@example.com,Female,Daily,27,164cm,60kg,5,True,2024-03-25,peach,
+26,Zane Morris,zane.morris@example.com,male,sometimes,18,171 cm,66kg,4,Yes,2024-03-26,olive,
