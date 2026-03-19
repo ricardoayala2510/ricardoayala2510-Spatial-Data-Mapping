@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Wichita Falls",
+        "distance_km": 5.056,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.49339,
+            33.91371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Iowa Park",
+        "distance_km": 16.258,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.66867,
+            33.95148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Holliday",
+        "distance_km": 17.432,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.69506,
+            33.81621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Burkburnett",
+        "distance_km": 25.366,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.57061,
+            34.09787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Henrietta",
+        "distance_km": 30.586,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.19532,
+            33.81732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Archer City",
+        "distance_km": 32.439,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.62561,
+            33.59566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Electra",
+        "distance_km": 40.705,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.91896,
+            34.02926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Walters",
+        "distance_km": 57.455,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.30783,
+            34.35981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Waurika",
+        "distance_km": 58.117,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.99754,
+            34.16704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Olney",
+        "distance_km": 59.966,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.75284,
+            33.37066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Geronimo",
+        "distance_km": 68.703,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.38311,
+            34.48119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Bowie",
+        "distance_km": 71.234,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.84865,
+            33.559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Frederick",
+        "distance_km": 73.692,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -99.01841,
+            34.39203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Nocona",
+        "distance_km": 73.939,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.72586,
+            33.78677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Comanche",
+        "distance_km": 75.152,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.96392,
+            34.36897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Seymour",
+        "distance_km": 75.229,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -99.26035,
+            33.59426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Vernon",
+        "distance_km": 75.622,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -99.26628,
+            34.15536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Montague",
+        "distance_km": 77.411,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.72059,
+            33.66483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Meridian",
+        "distance_km": 79.19,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.97809,
+            34.42731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Jacksboro",
+        "distance_km": 80.169,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.15866,
+            33.21845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Lawton",
+        "distance_km": 82.583,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.39033,
+            34.60869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Cache",
+        "distance_km": 84.638,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.62867,
+            34.62952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Graham",
+        "distance_km": 85.496,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.5895,
+            33.10706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Duncan",
+        "distance_km": 86.915,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.95781,
+            34.5023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Ringling",
+        "distance_km": 91.897,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.59253,
+            34.17843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Central High",
+        "distance_km": 92.217,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -98.08976,
+            34.62313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Chico",
+        "distance_km": 92.642,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.79892,
+            33.29595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Saint Jo",
+        "distance_km": 94.259,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.52252,
+            33.69483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Marlow",
+        "distance_km": 95.05,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.95587,
+            34.59036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from": "Midwestern State University",
+        "to": "Alvord",
+        "distance_km": 95.472,
+        "time-zone": "America/Chicago",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.51947,
+            33.87372
+          ],
+          [
+            -97.69475,
+            33.35845
+          ]
+        ]
+      }
+    }
+  ]
+}
