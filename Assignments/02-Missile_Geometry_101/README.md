@@ -1,16 +1,3 @@
-## State of the Union Address
-
-From Dr. Griffin: 
-
-<sub>_Sorry this semester started off so confusing. I've spent way too much time trying to automate and generate iPython notebooks that hold your hand and walk you through lessons. It worked very well in my "Online Intro to Data Science" class last semester. However, I think the information was more conducive to that delivery plus ChatGpt is very helpful for organizing topics and releasing small digestible chunks of information. In addition, the data science course and this course are not upper division and not limited to CS majors. In fact, I was told to create these two courses with non-majors in mind 😳. So, the data science course was a lot smoother than whats going on right now._</sub>
-
-
-<sub>_Having said that, I'm taking over from automated content generation, and going back to my own gray matter. Delivery to ya'll will be different. Slack updates, and assignment posts on github for now._</sub>
-
-
-<sub>_Lastly, don't freak out when you read the project. I will still provide starter code, explanations, examples, and zoom with anyone who needs help. The early milestones are pretty straight forward (with a little help), and the project as a whole (when done in steps) is also easier than it may look._</sub>
-
-
 # 🚀 Project 01: Missile Geometry 101  
 
 ### *World Defense Organization (WDO)*
