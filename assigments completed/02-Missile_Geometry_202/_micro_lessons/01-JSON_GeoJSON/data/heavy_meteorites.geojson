@@ -1,0 +1,8685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abee",
+        "mass": 107000,
+        "year": 1952,
+        "id": 6,
+        "fall": "Fell",
+        "recclass": "EH4",
+        "marker-color": "#3e80e6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0,
+          54.21667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alfianello",
+        "mass": 228000,
+        "year": 1883,
+        "id": 466,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#ed6a7e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15,
+          45.26667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allende",
+        "mass": 2000000,
+        "year": 1969,
+        "id": 2278,
+        "fall": "Fell",
+        "recclass": "CV3",
+        "marker-color": "#6eaa9c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.31667,
+          26.96667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bath Furnace",
+        "mass": 86000,
+        "year": 1902,
+        "id": 4975,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#8e3dd7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          38.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjurb\u00f6le",
+        "mass": 330000,
+        "year": 1899,
+        "id": 5064,
+        "fall": "Fell",
+        "recclass": "L/LL4",
+        "marker-color": "#b0363d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8,
+          60.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boguslavka",
+        "mass": 256000,
+        "year": 1916,
+        "id": 5098,
+        "fall": "Fell",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#29e93e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.63333,
+          44.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruderheim",
+        "mass": 303000,
+        "year": 1960,
+        "id": 5156,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#513c3b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.88333,
+          53.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bur-Gheluai",
+        "mass": 120000,
+        "year": 1919,
+        "id": 5169,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#ad054f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0,
+          5.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chelyabinsk",
+        "mass": 100000,
+        "year": 2013,
+        "id": 57165,
+        "fall": "Fell",
+        "recclass": "LL5",
+        "marker-color": "#e5af07",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.11667,
+          54.81667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chergach",
+        "mass": 100000,
+        "year": 2007,
+        "id": 47347,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#170c36",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.01472,
+          23.69639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colby (Wisconsin)",
+        "mass": 104000,
+        "year": 1917,
+        "id": 5395,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#ec564c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28333,
+          44.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djati-Pengilon",
+        "mass": 166000,
+        "year": 1884,
+        "id": 7652,
+        "fall": "Fell",
+        "recclass": "H6",
+        "marker-color": "#79ffa3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5,
+          -7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Ujimqin Qi",
+        "mass": 128800,
+        "year": 1995,
+        "id": 7706,
+        "fall": "Fell",
+        "recclass": "Mesosiderite",
+        "marker-color": "#48ba40",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.03333,
+          45.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elbogen",
+        "mass": 107000,
+        "year": 1399,
+        "id": 7823,
+        "fall": "Fell",
+        "recclass": "Iron, IID",
+        "marker-color": "#a8edd5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.73333,
+          50.18333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elenovka",
+        "mass": 54640,
+        "year": 1951,
+        "id": 7824,
+        "fall": "Fell",
+        "recclass": "L5",
+        "marker-color": "#8b089b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.66667,
+          47.83333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ensisheim",
+        "mass": 127000,
+        "year": 1491,
+        "id": 10039,
+        "fall": "Fell",
+        "recclass": "LL6",
+        "marker-color": "#68dc81",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35,
+          47.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estherville",
+        "mass": 320000,
+        "year": 1879,
+        "id": 10059,
+        "fall": "Fell",
+        "recclass": "Mesosiderite-A3/4",
+        "marker-color": "#4524cb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.83333,
+          43.41667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farmington",
+        "mass": 89400,
+        "year": 1890,
+        "id": 10074,
+        "fall": "Fell",
+        "recclass": "L5",
+        "marker-color": "#7f4661",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03333,
+          39.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farmville",
+        "mass": 56000,
+        "year": 1934,
+        "id": 10075,
+        "fall": "Fell",
+        "recclass": "H4",
+        "marker-color": "#6cf1f6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53333,
+          35.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest City",
+        "mass": 152000,
+        "year": 1890,
+        "id": 10119,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#cb4c5a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.66667,
+          43.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glasatovo",
+        "mass": 152000,
+        "year": 1918,
+        "id": 10926,
+        "fall": "Fell",
+        "recclass": "H4",
+        "marker-color": "#963b8b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61667,
+          57.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gujba",
+        "mass": 100000,
+        "year": 1984,
+        "id": 11449,
+        "fall": "Fell",
+        "recclass": "CBa",
+        "marker-color": "#de48c3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65833,
+          11.49167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holbrook",
+        "mass": 220000,
+        "year": 1912,
+        "id": 11894,
+        "fall": "Fell",
+        "recclass": "L/LL6",
+        "marker-color": "#f44ace",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.18333,
+          34.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homestead",
+        "mass": 230000,
+        "year": 1875,
+        "id": 11901,
+        "fall": "Fell",
+        "recclass": "L5",
+        "marker-color": "#0fdada",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.86667,
+          41.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jianshi",
+        "mass": 600000,
+        "year": 1890,
+        "id": 12087,
+        "fall": "Fell",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#0b7403",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5,
+          30.80833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jilin",
+        "mass": 4000000,
+        "year": 1976,
+        "id": 12171,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#ed54f1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16667,
+          44.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juancheng",
+        "mass": 100000,
+        "year": 1997,
+        "id": 12203,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#d50791",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.41667,
+          35.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juvinas",
+        "mass": 91000,
+        "year": 1821,
+        "id": 12214,
+        "fall": "Fell",
+        "recclass": "Eucrite-mmict",
+        "marker-color": "#0f3d85",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3,
+          44.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kainsaz",
+        "mass": 200000,
+        "year": 1937,
+        "id": 12229,
+        "fall": "Fell",
+        "recclass": "CO3.2",
+        "marker-color": "#189130",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.25,
+          55.43333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayakent",
+        "mass": 85000,
+        "year": 1961,
+        "id": 12268,
+        "fall": "Fell",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#b375af",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.78,
+          39.26333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kernouve",
+        "mass": 80000,
+        "year": 1869,
+        "id": 12284,
+        "fall": "Fell",
+        "recclass": "H6",
+        "marker-color": "#f57f04",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.08333,
+          48.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kesen",
+        "mass": 135000,
+        "year": 1850,
+        "id": 12286,
+        "fall": "Fell",
+        "recclass": "H4",
+        "marker-color": "#398ea7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.61667,
+          38.98333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kidairat",
+        "mass": 100000,
+        "year": 1983,
+        "id": 12300,
+        "fall": "Fell",
+        "recclass": "H6",
+        "marker-color": "#86e073",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0,
+          14.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knyahinya",
+        "mass": 500000,
+        "year": 1866,
+        "id": 12335,
+        "fall": "Fell",
+        "recclass": "L/LL5",
+        "marker-color": "#af6b7f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4,
+          48.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunashak",
+        "mass": 200000,
+        "year": 1949,
+        "id": 12377,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#e809c3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.36667,
+          55.78333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunya-Urgench",
+        "mass": 1100000,
+        "year": 1998,
+        "id": 12379,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#f20a1f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.2,
+          42.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lanc\u00e9",
+        "mass": 51700,
+        "year": 1872,
+        "id": 12455,
+        "fall": "Fell",
+        "recclass": "CO3.5",
+        "marker-color": "#79d973",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.06667,
+          47.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leedey",
+        "mass": 51500,
+        "year": 1943,
+        "id": 12755,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#af43f6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.33333,
+          35.88333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u0141owicz",
+        "mass": 59000,
+        "year": 1935,
+        "id": 14718,
+        "fall": "Fell",
+        "recclass": "Mesosiderite-A3",
+        "marker-color": "#06aa62",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91667,
+          52.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Machinga",
+        "mass": 93200,
+        "year": 1981,
+        "id": 15371,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#ffbac3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24222,
+          -15.21222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahadevpur",
+        "mass": 70500,
+        "year": 2007,
+        "id": 47361,
+        "fall": "Fell",
+        "recclass": "H4/5",
+        "marker-color": "#2ab70b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.78333,
+          27.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbale",
+        "mass": 150000,
+        "year": 1992,
+        "id": 15455,
+        "fall": "Fell",
+        "recclass": "L5/6",
+        "marker-color": "#57a257",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.16667,
+          1.06667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merua",
+        "mass": 71400,
+        "year": 1920,
+        "id": 15492,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#95d4eb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.98333,
+          25.48333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millbillillie",
+        "mass": 330000,
+        "year": 1960,
+        "id": 16643,
+        "fall": "Fell",
+        "recclass": "Eucrite-mmict",
+        "marker-color": "#ac625d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36667,
+          -26.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mocs",
+        "mass": 300000,
+        "year": 1882,
+        "id": 16709,
+        "fall": "Fell",
+        "recclass": "L5-6",
+        "marker-color": "#0411b4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03333,
+          46.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molina",
+        "mass": 144000,
+        "year": 1858,
+        "id": 16715,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#a7fb36",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16667,
+          38.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montferr\u00e9",
+        "mass": 149000,
+        "year": 1923,
+        "id": 16727,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#46f660",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9625,
+          43.39056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Tazerzait",
+        "mass": 110000,
+        "year": 1991,
+        "id": 16804,
+        "fall": "Fell",
+        "recclass": "L5",
+        "marker-color": "#9ffa69",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8,
+          18.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murchison",
+        "mass": 100000,
+        "year": 1969,
+        "id": 16875,
+        "fall": "Fell",
+        "recclass": "CM2",
+        "marker-color": "#7dcce6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2,
+          -36.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nan Yang Pao",
+        "mass": 52900,
+        "year": 1917,
+        "id": 16903,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#62d630",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5,
+          35.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Concord",
+        "mass": 230000,
+        "year": 1860,
+        "id": 16953,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#c285f8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76667,
+          40.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norton County",
+        "mass": 1100000,
+        "year": 1948,
+        "id": 17922,
+        "fall": "Fell",
+        "recclass": "Aubrite",
+        "marker-color": "#1d7b0e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.86667,
+          39.68333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ochansk",
+        "mass": 500000,
+        "year": 1887,
+        "id": 17979,
+        "fall": "Fell",
+        "recclass": "H4",
+        "marker-color": "#167f67",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26667,
+          57.78333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olivenza",
+        "mass": 150000,
+        "year": 1924,
+        "id": 18013,
+        "fall": "Fell",
+        "recclass": "LL5",
+        "marker-color": "#cbad26",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.06667,
+          38.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omolon",
+        "mass": 250000,
+        "year": 1981,
+        "id": 18019,
+        "fall": "Fell",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#194b9c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.80833,
+          64.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paragould",
+        "mass": 408000,
+        "year": 1930,
+        "id": 18101,
+        "fall": "Fell",
+        "recclass": "LL5",
+        "marker-color": "#c63bac",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5,
+          36.06667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paranaiba",
+        "mass": 100000,
+        "year": 1956,
+        "id": 18103,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#fc9944",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.66667,
+          -19.13333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parnallee",
+        "mass": 77600,
+        "year": 1857,
+        "id": 18108,
+        "fall": "Fell",
+        "recclass": "LL3.6",
+        "marker-color": "#327c39",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.35,
+          9.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pe\u00f1a Blanca Spring",
+        "mass": 70000,
+        "year": 1946,
+        "id": 18786,
+        "fall": "Fell",
+        "recclass": "Aubrite",
+        "marker-color": "#bfab68",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11667,
+          30.125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pervomaisky",
+        "mass": 66000,
+        "year": 1933,
+        "id": 18798,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#c55fc2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43333,
+          56.63333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phillips County (stone)",
+        "mass": 57900,
+        "year": 1901,
+        "id": 18808,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#351816",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.25,
+          40.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portales Valley",
+        "mass": 71400,
+        "year": 1998,
+        "id": 18874,
+        "fall": "Fell",
+        "recclass": "H6",
+        "marker-color": "#6f3f2d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.295,
+          34.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pultusk",
+        "mass": 250000,
+        "year": 1868,
+        "id": 18901,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#ecf82c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26667,
+          52.76667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putinga",
+        "mass": 300000,
+        "year": 1937,
+        "id": 18905,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#cdda1d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.05,
+          -29.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rahimyar Khan",
+        "mass": 67225,
+        "year": 1983,
+        "id": 31302,
+        "fall": "Fell",
+        "recclass": "L5",
+        "marker-color": "#7bedb9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2,
+          28.225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richardton",
+        "mass": 90000,
+        "year": 1918,
+        "id": 22599,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#b7f6dd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.31667,
+          46.88333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-S\u00e9verin",
+        "mass": 271000,
+        "year": 1966,
+        "id": 23102,
+        "fall": "Fell",
+        "recclass": "LL6",
+        "marker-color": "#f8d869",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.23333,
+          45.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saratov",
+        "mass": 200000,
+        "year": 1918,
+        "id": 23176,
+        "fall": "Fell",
+        "recclass": "L4",
+        "marker-color": "#09e9e0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.55,
+          52.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sevrukovo",
+        "mass": 101000,
+        "year": 1874,
+        "id": 23509,
+        "fall": "Fell",
+        "recclass": "L5",
+        "marker-color": "#f747c0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6,
+          50.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sikhote-Alin",
+        "mass": 23000000,
+        "year": 1947,
+        "id": 23593,
+        "fall": "Fell",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#ee99d0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.65333,
+          46.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soko-Banja",
+        "mass": 80000,
+        "year": 1877,
+        "id": 23661,
+        "fall": "Fell",
+        "recclass": "LL4",
+        "marker-color": "#657e5b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.86667,
+          43.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stannern",
+        "mass": 52000,
+        "year": 1808,
+        "id": 23713,
+        "fall": "Fell",
+        "recclass": "Eucrite-mmict",
+        "marker-color": "#aa1246",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56667,
+          49.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sterlitamak",
+        "mass": 325000,
+        "year": 1990,
+        "id": 23724,
+        "fall": "Fell",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#a53e6c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.98333,
+          53.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suizhou",
+        "mass": 260000,
+        "year": 1986,
+        "id": 23738,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#8986a1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.46667,
+          31.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulagiri",
+        "mass": 110000,
+        "year": 2008,
+        "id": 48951,
+        "fall": "Fell",
+        "recclass": "LL6",
+        "marker-color": "#822e8e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.03333,
+          12.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamdakht",
+        "mass": 100000,
+        "year": 2008,
+        "id": 48691,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#a436d1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.015,
+          31.16333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenham",
+        "mass": 160000,
+        "year": 1879,
+        "id": 23897,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#522152",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95,
+          -25.73333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilden",
+        "mass": 74800,
+        "year": 1927,
+        "id": 23998,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#c64c21",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68333,
+          38.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timochin",
+        "mass": 65500,
+        "year": 1807,
+        "id": 24004,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#56265d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2,
+          54.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treysa",
+        "mass": 63000,
+        "year": 1916,
+        "id": 24050,
+        "fall": "Fell",
+        "recclass": "Iron, IIIAB-an",
+        "marker-color": "#df07c4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18333,
+          50.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Udei Station",
+        "mass": 103000,
+        "year": 1927,
+        "id": 24101,
+        "fall": "Fell",
+        "recclass": "Iron, IAB-ung",
+        "marker-color": "#8ee4ea",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.08333,
+          7.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veramin",
+        "mass": 54000,
+        "year": 1880,
+        "id": 24162,
+        "fall": "Fell",
+        "recclass": "Mesosiderite-B2",
+        "marker-color": "#ea8bdb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.63333,
+          35.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weston",
+        "mass": 150000,
+        "year": 1807,
+        "id": 24249,
+        "fall": "Fell",
+        "recclass": "H4",
+        "marker-color": "#43cbbd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.266667,
+          41.266667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiluna",
+        "mass": 150000,
+        "year": 1967,
+        "id": 24281,
+        "fall": "Fell",
+        "recclass": "H5",
+        "marker-color": "#f68bf1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32833,
+          -26.59278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xingyang",
+        "mass": 75500,
+        "year": 1977,
+        "id": 24346,
+        "fall": "Fell",
+        "recclass": "H6",
+        "marker-color": "#21cdfc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31667,
+          32.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yardymly",
+        "mass": 150200,
+        "year": 1959,
+        "id": 30352,
+        "fall": "Fell",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#ccfb02",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.25,
+          38.93333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zag",
+        "mass": 175000,
+        "year": 1998,
+        "id": 30384,
+        "fall": "Fell",
+        "recclass": "H3-6",
+        "marker-color": "#9c1587",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.33333,
+          27.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zavid",
+        "mass": 95000,
+        "year": 1897,
+        "id": 30396,
+        "fall": "Fell",
+        "recclass": "L6",
+        "marker-color": "#618a60",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11667,
+          44.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhovtnevyi",
+        "mass": 107000,
+        "year": 1938,
+        "id": 30407,
+        "fall": "Fell",
+        "recclass": "H6",
+        "marker-color": "#b46693",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.25,
+          47.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acme",
+        "mass": 75000,
+        "year": 1947,
+        "id": 371,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#79d4b6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.26667,
+          33.63333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acu\u00f1a",
+        "mass": 217700,
+        "year": 1981,
+        "id": 373,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#a1a71c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.96667,
+          29.31667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ad-Dahbubah",
+        "mass": 90000,
+        "year": 1961,
+        "id": 376,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#44b44d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25,
+          19.83333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Admire",
+        "mass": 180000,
+        "year": 1881,
+        "id": 380,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#72e325",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1,
+          38.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adzhi-Bogdo (iron)",
+        "mass": 582000,
+        "year": 1952,
+        "id": 389,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#fda5fd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.41667,
+          44.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agoudal",
+        "mass": 100000,
+        "year": 2000,
+        "id": 57354,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#8b5ddc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.51528,
+          31.98457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Haggounia 001",
+        "mass": 3000000,
+        "year": 2006,
+        "id": 44857,
+        "fall": "Found",
+        "recclass": "Aubrite",
+        "marker-color": "#da325e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.5,
+          27.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahumada",
+        "mass": 52600,
+        "year": 1909,
+        "id": 419,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#5c2264",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5,
+          30.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ainsworth",
+        "mass": 80650,
+        "year": 1907,
+        "id": 422,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#96451d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8,
+          42.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliskerovo",
+        "mass": 58400,
+        "year": 1977,
+        "id": 472,
+        "fall": "Found",
+        "recclass": "Iron, IIIE-an",
+        "marker-color": "#ac91e8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.5,
+          67.88333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alkhamasin",
+        "mass": 1200000,
+        "year": 1973,
+        "id": 475,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#37f706",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.88333,
+          20.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allan Hills A76009",
+        "mass": 407000,
+        "year": 1976,
+        "id": 1316,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#510e0d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.66667,
+          -76.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anyujskij",
+        "mass": 100000,
+        "year": 1981,
+        "id": 2312,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#d23ba5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.2,
+          66.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apoala",
+        "mass": 85000,
+        "year": 1889,
+        "id": 2317,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#0c6d23",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0,
+          17.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aprel'sky",
+        "mass": 54600,
+        "year": 1969,
+        "id": 2319,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#fb08f7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.11667,
+          53.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araslanovo",
+        "mass": 132000,
+        "year": 1973,
+        "id": 2324,
+        "fall": "Found",
+        "recclass": "L/LL5",
+        "marker-color": "#04d14d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2,
+          55.14167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arispe",
+        "mass": 683000,
+        "year": 1896,
+        "id": 2332,
+        "fall": "Found",
+        "recclass": "Iron, IC",
+        "marker-color": "#cd9760",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.98333,
+          30.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Armanty",
+        "mass": 28000000,
+        "year": 1898,
+        "id": 2335,
+        "fall": "Found",
+        "recclass": "Iron, IIIE",
+        "marker-color": "#c92b38",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0,
+          47.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashmore",
+        "mass": 55400,
+        "year": 1969,
+        "id": 2349,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#a9d5a8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.28333,
+          32.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augustinovka",
+        "mass": 400000,
+        "year": 1890,
+        "id": 4898,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#93c860",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08333,
+          48.06667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augusta County",
+        "mass": 76000,
+        "year": 1858,
+        "id": 4897,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#87bb4c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08333,
+          38.16667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babb's Mill (Blake's Iron)",
+        "mass": 136000,
+        "year": 1876,
+        "id": 4915,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#760475",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.88333,
+          36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bacubirito",
+        "mass": 22000000,
+        "year": 1863,
+        "id": 4919,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#1c7444",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.83333,
+          26.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barratta",
+        "mass": 200000,
+        "year": 1845,
+        "id": 4951,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#3257bb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.56667,
+          -35.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayard",
+        "mass": 75000,
+        "year": 1982,
+        "id": 4978,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#ee55df",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.36667,
+          41.81667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baygorria",
+        "mass": 80000,
+        "year": 1994,
+        "id": 4980,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#3a99c3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0,
+          -33.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bear Creek",
+        "mass": 227000,
+        "year": 1866,
+        "id": 4982,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#7a4ee2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3,
+          39.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belle Plaine",
+        "mass": 78800,
+        "year": 1950,
+        "id": 5004,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#9800d6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.25,
+          37.31667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bencubbin",
+        "mass": 118000,
+        "year": 1930,
+        "id": 5014,
+        "fall": "Found",
+        "recclass": "CBa",
+        "marker-color": "#e94cb3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.78333,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bendeg\u00f3",
+        "mass": 5360000,
+        "year": 1784,
+        "id": 5015,
+        "fall": "Found",
+        "recclass": "Iron, IC",
+        "marker-color": "#ff0a35",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2,
+          -10.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bennett County",
+        "mass": 89000,
+        "year": 1934,
+        "id": 5022,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#7abba6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.25,
+          43.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benjamin",
+        "mass": 51800,
+        "year": 1969,
+        "id": 5020,
+        "fall": "Found",
+        "recclass": "H4/5",
+        "marker-color": "#e7f70b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8,
+          33.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bilibino",
+        "mass": 1000000,
+        "year": 1981,
+        "id": 5046,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#0bce6b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.8,
+          67.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bitburg",
+        "mass": 1500000,
+        "year": 1805,
+        "id": 5062,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#305569",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53333,
+          49.96667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluff (a)",
+        "mass": 153300,
+        "year": 1878,
+        "id": 5087,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#0bb5ec",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.87222,
+          29.87861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bocaiuva",
+        "mass": 64000,
+        "year": 1965,
+        "id": 5092,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#d71148",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.83333,
+          -17.16667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bohumilitz",
+        "mass": 59000,
+        "year": 1829,
+        "id": 5099,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#a26a7b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76667,
+          49.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bondoc",
+        "mass": 888600,
+        "year": 1956,
+        "id": 5103,
+        "fall": "Found",
+        "recclass": "Mesosiderite-B4",
+        "marker-color": "#ce588e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.45,
+          13.51667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bou Azarif",
+        "mass": 100000,
+        "year": 2010,
+        "id": 53812,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#e20bbb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.15262,
+          31.15643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boxhole",
+        "mass": 500000,
+        "year": 1937,
+        "id": 5126,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#84b52f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2,
+          -22.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brahin",
+        "mass": 823000,
+        "year": 1810,
+        "id": 5130,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#202af1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.33333,
+          52.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brainard",
+        "mass": 138300,
+        "year": 1978,
+        "id": 5131,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#657858",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.955,
+          41.15333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brenham",
+        "mass": 4300000,
+        "year": 1882,
+        "id": 5136,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG-an",
+        "marker-color": "#1ef863",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16361,
+          37.5825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruceville",
+        "mass": 83000,
+        "year": 1998,
+        "id": 5155,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#b88b69",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.405,
+          38.295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budulan",
+        "mass": 100000,
+        "year": 1962,
+        "id": 5161,
+        "fall": "Found",
+        "recclass": "Mesosiderite-B4",
+        "marker-color": "#048701",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9,
+          50.56667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenaventura",
+        "mass": 113600,
+        "year": 1969,
+        "id": 5162,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#a17db6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.55,
+          29.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bur-Abor",
+        "mass": 290000,
+        "year": 1997,
+        "id": 5166,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#9922d9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.65,
+          3.98333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burlington",
+        "mass": 68000,
+        "year": 1819,
+        "id": 5172,
+        "fall": "Found",
+        "recclass": "Iron, IIIE",
+        "marker-color": "#26ddfa",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18333,
+          42.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Wood",
+        "mass": 148000,
+        "year": "",
+        "id": 51830,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#086a85",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.875,
+          29.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campinorte",
+        "mass": 2000000,
+        "year": 1992,
+        "id": 52093,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#e747f2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.15917,
+          -14.258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campo del Cielo",
+        "mass": 50000000,
+        "year": 1575,
+        "id": 5247,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#444090",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58333,
+          -27.46667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Diablo",
+        "mass": 30000000,
+        "year": 1891,
+        "id": 5257,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#1a6039",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.03333,
+          35.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape York",
+        "mass": 58200000,
+        "year": 1818,
+        "id": 5262,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#c77455",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.93333,
+          76.13333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape of Good Hope",
+        "mass": 136000,
+        "year": 1793,
+        "id": 5261,
+        "fall": "Found",
+        "recclass": "Iron, IVB",
+        "marker-color": "#7f8408",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          -33.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caperr",
+        "mass": 113900,
+        "year": 1869,
+        "id": 5263,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#c2eddb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48333,
+          -45.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carbo",
+        "mass": 454000,
+        "year": 1923,
+        "id": 5266,
+        "fall": "Found",
+        "recclass": "Iron, IID",
+        "marker-color": "#e0ff55",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5,
+          29.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnegie",
+        "mass": 132700,
+        "year": 1963,
+        "id": 5278,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#b8ad21",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.64389,
+          35.16667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlton",
+        "mass": 81200,
+        "year": 1887,
+        "id": 5277,
+        "fall": "Found",
+        "recclass": "Iron, IAB-sLM",
+        "marker-color": "#b4c42f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.03333,
+          31.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carthage",
+        "mass": 127000,
+        "year": 1840,
+        "id": 5282,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#0e9864",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.98333,
+          36.26667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carver",
+        "mass": 94000,
+        "year": 1935,
+        "id": 5284,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#fc65d4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casas Grandes",
+        "mass": 1545000,
+        "year": 1867,
+        "id": 5285,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#c623f0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8,
+          30.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charcas",
+        "mass": 1400000,
+        "year": 1804,
+        "id": 5326,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#26a864",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.01667,
+          23.08333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chebankol",
+        "mass": 127760,
+        "year": 1938,
+        "id": 5335,
+        "fall": "Found",
+        "recclass": "Iron, IAB-sHL",
+        "marker-color": "#e9832e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0,
+          53.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chico",
+        "mass": 104800,
+        "year": 1954,
+        "id": 5346,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#decd2e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2,
+          36.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chihuahua City",
+        "mass": 54000,
+        "year": 1929,
+        "id": 5350,
+        "fall": "Found",
+        "recclass": "Iron, IC",
+        "marker-color": "#216838",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.11667,
+          28.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinga",
+        "mass": 209400,
+        "year": 1913,
+        "id": 5353,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#512f5b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4,
+          51.05833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chupaderos",
+        "mass": 24300000,
+        "year": 1852,
+        "id": 5363,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#97da7d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1,
+          27.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland",
+        "mass": 115000,
+        "year": 1860,
+        "id": 5379,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#ddf536",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78333,
+          34.88333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clovis (no. 1)",
+        "mass": 283000,
+        "year": 1961,
+        "id": 5385,
+        "fall": "Found",
+        "recclass": "H3.6",
+        "marker-color": "#14633b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.13472,
+          34.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coahuila",
+        "mass": 2100000,
+        "year": 1837,
+        "id": 5387,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#45432e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.73333,
+          28.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colomera",
+        "mass": 134000,
+        "year": 1912,
+        "id": 5404,
+        "fall": "Found",
+        "recclass": "Iron, IIE",
+        "marker-color": "#51c5d9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65,
+          37.43333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Concho",
+        "mass": 93500,
+        "year": 1939,
+        "id": 5417,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#d29967",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5,
+          32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cook 001",
+        "mass": 105000,
+        "year": 1989,
+        "id": 5421,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#6c433e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.53333,
+          -30.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cook 007",
+        "mass": 100000,
+        "year": 1989,
+        "id": 5427,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ab7b13",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.41667,
+          -30.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cosby's Creek",
+        "mass": 960000,
+        "year": 1837,
+        "id": 5450,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#95fd69",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25,
+          35.78333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Covert",
+        "mass": 61000,
+        "year": 1896,
+        "id": 5456,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#a605b9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.78333,
+          39.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cranbourne",
+        "mass": 8600000,
+        "year": 1854,
+        "id": 5463,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#0720c3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3,
+          -38.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalgety Downs",
+        "mass": 257000,
+        "year": 1941,
+        "id": 5507,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#23bf03",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.18333,
+          -25.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalton",
+        "mass": 53000,
+        "year": 1879,
+        "id": 5509,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#249891",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98333,
+          34.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dar al Gani 749",
+        "mass": 95000,
+        "year": 1999,
+        "id": 6296,
+        "fall": "Found",
+        "recclass": "CO3",
+        "marker-color": "#c0f14a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7645,
+          27.30167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Davis Mountains",
+        "mass": 689000,
+        "year": 1903,
+        "id": 6615,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#f2948e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.25,
+          30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Davy (a)",
+        "mass": 50600,
+        "year": 1940,
+        "id": 6616,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#900f67",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6,
+          29.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derrick Peak 88017",
+        "mass": 63000,
+        "year": 1988,
+        "id": 6668,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#093338",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.38333,
+          -80.06667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derrick Peak A78008",
+        "mass": 59400,
+        "year": 1978,
+        "id": 6684,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#c8e371",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.38333,
+          -80.06667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derrick Peak A78009",
+        "mass": 138100,
+        "year": 1978,
+        "id": 6685,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#a3d21e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.38333,
+          -80.06667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhofar 005",
+        "mass": 125500,
+        "year": 2000,
+        "id": 6704,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#a55b78",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.16667,
+          18.16667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhofar 020",
+        "mass": 256000,
+        "year": 2000,
+        "id": 6719,
+        "fall": "Found",
+        "recclass": "H4/5",
+        "marker-color": "#04e0d7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51667,
+          19.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dimitrovgrad",
+        "mass": 100000,
+        "year": 1949,
+        "id": 7644,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#733519",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.86389,
+          43.04639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dimmitt",
+        "mass": 200000,
+        "year": 1942,
+        "id": 7645,
+        "fall": "Found",
+        "recclass": "H3.7",
+        "marker-color": "#050c89",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.16667,
+          34.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drum Mountains",
+        "mass": 529000,
+        "year": 1944,
+        "id": 7733,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#3aeb72",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9,
+          39.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duketon",
+        "mass": 118300,
+        "year": 1948,
+        "id": 7740,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#108e1a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.36667,
+          -27.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunganville",
+        "mass": 54000,
+        "year": 1976,
+        "id": 7748,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#cd0166",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.35,
+          -42.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Hammami",
+        "mass": 240000,
+        "year": 1997,
+        "id": 7806,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#a31733",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.81667,
+          23.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Sampal",
+        "mass": 142000,
+        "year": 1973,
+        "id": 7817,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#384fdc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.36667,
+          -44.53333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Timbu",
+        "mass": 500000,
+        "year": 1942,
+        "id": 7820,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#5e71e5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96667,
+          -33.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esquel",
+        "mass": 755000,
+        "year": 1951,
+        "id": 10054,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#bace7d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.33333,
+          -42.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estacado",
+        "mass": 290000,
+        "year": 1883,
+        "id": 10057,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#a0c340",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.75,
+          33.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ethiudna",
+        "mass": 74318,
+        "year": 1977,
+        "id": 10060,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#8d3ae6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78333,
+          -32.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Etosha",
+        "mass": 110700,
+        "year": 1970,
+        "id": 10061,
+        "fall": "Found",
+        "recclass": "Iron, IC",
+        "marker-color": "#cda666",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0,
+          -18.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Etter",
+        "mass": 450000,
+        "year": 1965,
+        "id": 10062,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#cd39ca",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9,
+          35.98333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faith",
+        "mass": 105000,
+        "year": 1952,
+        "id": 10071,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#d881d9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.08333,
+          45.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faucett",
+        "mass": 100000,
+        "year": 1966,
+        "id": 10077,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#50ff53",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86667,
+          39.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finmarken",
+        "mass": 78300,
+        "year": 1902,
+        "id": 10103,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#5434ec",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0,
+          70.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florey",
+        "mass": 110800,
+        "year": 1978,
+        "id": 10112,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#2aabe8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.705,
+          32.5225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franconia",
+        "mass": 100000,
+        "year": 2002,
+        "id": 10174,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#8d4b2b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22197,
+          34.71637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fukang",
+        "mass": 1003000,
+        "year": 2000,
+        "id": 34491,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#5f820f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.63333,
+          44.43333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gan Gan",
+        "mass": 83000,
+        "year": 1984,
+        "id": 10852,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#df7424",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.08333,
+          -42.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garabato",
+        "mass": 160000,
+        "year": 1995,
+        "id": 10856,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#2b6c30",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.2,
+          -28.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gebel Kamil",
+        "mass": 1600000,
+        "year": 2009,
+        "id": 52031,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#01fa69",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.08778,
+          22.01833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghubara",
+        "mass": 1750000,
+        "year": 1954,
+        "id": 10911,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#6af14a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.14278,
+          19.22778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gibeon",
+        "mass": 26000000,
+        "year": 1836,
+        "id": 10912,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#efbc1c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0,
+          -25.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilgoin",
+        "mass": 147000,
+        "year": 1889,
+        "id": 10915,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#69829b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2,
+          -30.38333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladstone (iron)",
+        "mass": 736600,
+        "year": 1915,
+        "id": 10920,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#3f8b1d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3,
+          -23.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladstone (stone)",
+        "mass": 57300,
+        "year": 1936,
+        "id": 10921,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1eb320",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0,
+          36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glorieta Mountain",
+        "mass": 148000,
+        "year": 1884,
+        "id": 10935,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG-an",
+        "marker-color": "#93e2c4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8,
+          35.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Basin",
+        "mass": 61000,
+        "year": 1995,
+        "id": 10940,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#d66223",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.23333,
+          35.875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goose Lake",
+        "mass": 1169500,
+        "year": 1938,
+        "id": 10947,
+        "fall": "Found",
+        "recclass": "Iron, IAB-sLL",
+        "marker-color": "#76196e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.54167,
+          41.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Rapids",
+        "mass": 51700,
+        "year": 1883,
+        "id": 10955,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#622ee5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76667,
+          42.96667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant",
+        "mass": 525000,
+        "year": 1929,
+        "id": 10957,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#c5d1cc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.88333,
+          35.16667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gressk",
+        "mass": 303000,
+        "year": 1955,
+        "id": 11200,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#9d4a40",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33333,
+          53.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gretna",
+        "mass": 82000,
+        "year": 1912,
+        "id": 11201,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#13e1cf",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21667,
+          39.93333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadalupe y Calvo",
+        "mass": 58630,
+        "year": 1971,
+        "id": 11431,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#28f410",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.96667,
+          26.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guanghua",
+        "mass": 190000,
+        "year": 1932,
+        "id": 11434,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#2581c4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.7,
+          32.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guffey",
+        "mass": 309000,
+        "year": 1907,
+        "id": 11441,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#1fce83",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.51667,
+          38.76667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guixi",
+        "mass": 220000,
+        "year": "",
+        "id": 11446,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#c0d953",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.18333,
+          28.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gundaring",
+        "mass": 112500,
+        "year": 1937,
+        "id": 11452,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#3dba2c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.66667,
+          -33.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haig",
+        "mass": 503000,
+        "year": 1951,
+        "id": 11471,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#365b8f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.63333,
+          -31.38333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton (Queensland)",
+        "mass": 68000,
+        "year": 1966,
+        "id": 11483,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#180502",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25,
+          -28.48333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henbury",
+        "mass": 2000000,
+        "year": 1931,
+        "id": 11872,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#4365b8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.16667,
+          -24.56667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hex River Mountains",
+        "mass": 60000,
+        "year": 1882,
+        "id": 11880,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#025f66",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.61667,
+          -33.31667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoba",
+        "mass": 60000000,
+        "year": 1920,
+        "id": 11890,
+        "fall": "Found",
+        "recclass": "Iron, IVB",
+        "marker-color": "#a7cabd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.91667,
+          -19.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huckitta",
+        "mass": 2300000,
+        "year": 1924,
+        "id": 11922,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG-an",
+        "marker-color": "#08895d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76667,
+          -22.36667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hugoton",
+        "mass": 350000,
+        "year": 1927,
+        "id": 11984,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#87d74d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.35,
+          37.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huizopa",
+        "mass": 140000,
+        "year": 1907,
+        "id": 11985,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#32fae6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.56667,
+          28.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunter",
+        "mass": 74600,
+        "year": 1962,
+        "id": 11987,
+        "fall": "Found",
+        "recclass": "LL5",
+        "marker-color": "#b14c6b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66667,
+          36.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ider",
+        "mass": 140000,
+        "year": 1957,
+        "id": 11999,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#c1485f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65,
+          34.68333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilimaes (iron)",
+        "mass": 51700,
+        "year": 1870,
+        "id": 12022,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#016168",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0,
+          -26.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imilac",
+        "mass": 920000,
+        "year": 1822,
+        "id": 12025,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#ae1f30",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.80667,
+          -24.20333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iron Creek",
+        "mass": 175000,
+        "year": 1869,
+        "id": 12047,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#231efa",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0,
+          53.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isoulane-n-Amahar",
+        "mass": 72000,
+        "year": 1945,
+        "id": 12052,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#774d4b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66722,
+          27.12917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itapuranga",
+        "mass": 628000,
+        "year": "",
+        "id": 12057,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#aaa007",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.15,
+          -15.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ivanpah",
+        "mass": 58000,
+        "year": 1880,
+        "id": 12062,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#be9ec5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.31667,
+          35.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalu",
+        "mass": 150000,
+        "year": 2000,
+        "id": 12070,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#b913ec",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.68333,
+          27.95833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jenkins",
+        "mass": 55400,
+        "year": 1946,
+        "id": 12080,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#c056a0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.76111,
+          36.82444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jepara",
+        "mass": 499500,
+        "year": 2008,
+        "id": 53840,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#3d6606",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.73333,
+          -6.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiddat al Harasis 055",
+        "mass": 200000,
+        "year": 2004,
+        "id": 12119,
+        "fall": "Found",
+        "recclass": "L4-5",
+        "marker-color": "#49a1be",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.69,
+          19.65167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiddat al Harasis 073",
+        "mass": 550000,
+        "year": 2002,
+        "id": 12135,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#23d8d9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.73333,
+          19.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiddat al Harasis 090",
+        "mass": 92667.6,
+        "year": 2002,
+        "id": 12149,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#a09e4c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.6062,
+          19.71678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiddat al Harasis 091",
+        "mass": 123374,
+        "year": 2002,
+        "id": 12150,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#d65783",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.65432,
+          19.69362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiddat al Harasis 230",
+        "mass": 77000,
+        "year": 2005,
+        "id": 35549,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#a7346b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.58277,
+          19.7127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juanita de Angeles",
+        "mass": 85000,
+        "year": 1992,
+        "id": 12204,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#cf82d6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.08333,
+          28.41667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julesburg",
+        "mass": 57900,
+        "year": 1983,
+        "id": 12208,
+        "fall": "Found",
+        "recclass": "L3.6",
+        "marker-color": "#7bd764",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.26667,
+          39.975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juncal",
+        "mass": 104000,
+        "year": 1866,
+        "id": 12211,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#7a52be",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.25,
+          -26.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karavannoe",
+        "mass": 132000,
+        "year": "",
+        "id": 56567,
+        "fall": "Found",
+        "recclass": "Pallasite, PES",
+        "marker-color": "#66e086",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.67967,
+          57.78117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karee Kloof",
+        "mass": 92100,
+        "year": 1914,
+        "id": 12259,
+        "fall": "Found",
+        "recclass": "Iron, IAB-sLL",
+        "marker-color": "#67f3df",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8,
+          -31.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenton County",
+        "mass": 194000,
+        "year": 1889,
+        "id": 12280,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#680c69",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6,
+          38.81667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keyes",
+        "mass": 142000,
+        "year": 1939,
+        "id": 12287,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#314dcb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5,
+          36.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimble County",
+        "mass": 153800,
+        "year": 1918,
+        "id": 12311,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#1ee790",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4,
+          30.41667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knowles",
+        "mass": 161000,
+        "year": 1903,
+        "id": 12334,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#5dce18",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.21667,
+          36.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokstad",
+        "mass": 341000,
+        "year": 1884,
+        "id": 12341,
+        "fall": "Found",
+        "recclass": "Iron, IIIE",
+        "marker-color": "#b503be",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.41667,
+          -30.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korra Korrabes",
+        "mass": 140000,
+        "year": 1996,
+        "id": 12347,
+        "fall": "Found",
+        "recclass": "H3",
+        "marker-color": "#e8dd34",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.08333,
+          -25.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kouga Mountains",
+        "mass": 1173000,
+        "year": 1903,
+        "id": 12352,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#39c2cf",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0,
+          -33.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnojarsk",
+        "mass": 700000,
+        "year": 1749,
+        "id": 12356,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG-an",
+        "marker-color": "#bdf5da",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8,
+          54.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulnine",
+        "mass": 55300,
+        "year": 1886,
+        "id": 12372,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#f4bf2f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.78333,
+          -34.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumerina",
+        "mass": 53500,
+        "year": 1937,
+        "id": 12375,
+        "fall": "Found",
+        "recclass": "Iron, IIC",
+        "marker-color": "#5f3008",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.41667,
+          -24.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Caille",
+        "mass": 626000,
+        "year": 1828,
+        "id": 12393,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#57e208",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78333,
+          43.73333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Grange",
+        "mass": 50800,
+        "year": 1860,
+        "id": 12399,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#07beb9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.36667,
+          38.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laguna Manantiales",
+        "mass": 92000,
+        "year": 1945,
+        "id": 12413,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#568567",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.41667,
+          -48.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lahmada 009",
+        "mass": 70000,
+        "year": 1999,
+        "id": 12422,
+        "fall": "Found",
+        "recclass": "H3-6",
+        "marker-color": "#b91e18",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5,
+          27.16667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Murray",
+        "mass": 270000,
+        "year": 1933,
+        "id": 12446,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#a403ba",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0,
+          34.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landes",
+        "mass": 69800,
+        "year": 1930,
+        "id": 12457,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#3fa1f0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.18333,
+          38.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenarto",
+        "mass": 108500,
+        "year": 1814,
+        "id": 12763,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#2b97bf",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewis Cliff 85320",
+        "mass": 110224,
+        "year": 1985,
+        "id": 12790,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#f80ccb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.41628,
+          -84.26223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liangcheng",
+        "mass": 200000,
+        "year": 1959,
+        "id": 14645,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#5fdb1f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5,
+          40.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Island",
+        "mass": 564000,
+        "year": 1891,
+        "id": 14694,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#2169f0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6,
+          39.93333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longchang",
+        "mass": 158500,
+        "year": 1781,
+        "id": 14695,
+        "fall": "Found",
+        "recclass": "Iron, IVA-an",
+        "marker-color": "#40de58",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3,
+          29.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longtian",
+        "mass": 350000,
+        "year": 1991,
+        "id": 14696,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#cb0432",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5,
+          27.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loreto",
+        "mass": 94800,
+        "year": 1896,
+        "id": 14705,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#a2c427",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.36667,
+          26.01667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Sauces",
+        "mass": 997000,
+        "year": 1937,
+        "id": 14710,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#2216f8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.85,
+          -29.41667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lutschaunig's Stone",
+        "mass": 100000,
+        "year": 1861,
+        "id": 14762,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#286638",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0,
+          -27.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madoc",
+        "mass": 168000,
+        "year": 1854,
+        "id": 15381,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#859767",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46667,
+          44.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mafuta",
+        "mass": 71500,
+        "year": 1984,
+        "id": 15384,
+        "fall": "Found",
+        "recclass": "Iron, IID",
+        "marker-color": "#eeb5fe",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.40722,
+          -16.9025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magura",
+        "mass": 150000,
+        "year": 1840,
+        "id": 15388,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#4851c8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.48333,
+          49.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manlai",
+        "mass": 166800,
+        "year": 1954,
+        "id": 15407,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#384144",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5,
+          44.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markovka",
+        "mass": 54200,
+        "year": 1967,
+        "id": 15427,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c9ac7f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8,
+          52.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlow",
+        "mass": 68000,
+        "year": 1936,
+        "id": 15428,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#ff45f2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.91667,
+          34.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbosi",
+        "mass": 16000000,
+        "year": 1930,
+        "id": 15456,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#dce19e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.06667,
+          -9.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McKinney",
+        "mass": 150000,
+        "year": 1870,
+        "id": 15463,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#dffdc6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71667,
+          33.18333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miami",
+        "mass": 57700,
+        "year": 1930,
+        "id": 16630,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#77e587",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6,
+          35.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miles",
+        "mass": 265000,
+        "year": 1992,
+        "id": 16641,
+        "fall": "Found",
+        "recclass": "Iron, IIE",
+        "marker-color": "#511c7d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.33333,
+          -27.83333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mills",
+        "mass": 88000,
+        "year": 1970,
+        "id": 16687,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#b86171",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.11889,
+          36.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mincy",
+        "mass": 89400,
+        "year": 1857,
+        "id": 16694,
+        "fall": "Found",
+        "recclass": "Mesosiderite-B4",
+        "marker-color": "#275b06",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1,
+          36.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molong",
+        "mass": 104000,
+        "year": 1912,
+        "id": 16716,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#38fb5d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.88333,
+          -33.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mont Dieu",
+        "mass": 360000,
+        "year": 1994,
+        "id": 16722,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#463384",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86667,
+          49.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moorumbunna",
+        "mass": 77000,
+        "year": 1943,
+        "id": 16739,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#8edc7f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.25,
+          -28.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morasko",
+        "mass": 290000,
+        "year": 1914,
+        "id": 16741,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#c282ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9,
+          52.46667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morito",
+        "mass": 10100000,
+        "year": 1600,
+        "id": 16745,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#4eefae",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.43333,
+          27.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morland",
+        "mass": 295000,
+        "year": 1890,
+        "id": 16746,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#38315a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.06667,
+          39.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moshesh",
+        "mass": 200000,
+        "year": "",
+        "id": 16756,
+        "fall": "Found",
+        "recclass": "H",
+        "marker-color": "#d0eda3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.71667,
+          -30.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Dooling",
+        "mass": 734000,
+        "year": 1909,
+        "id": 16771,
+        "fall": "Found",
+        "recclass": "Iron, IC",
+        "marker-color": "#2cd463",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.71667,
+          -29.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Edith",
+        "mass": 326000,
+        "year": 1913,
+        "id": 16773,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#2349bd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.16667,
+          -22.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Joy",
+        "mass": 384000,
+        "year": 1887,
+        "id": 16779,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#93ec88",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21667,
+          39.78333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Padbury",
+        "mass": 272000,
+        "year": 1964,
+        "id": 16785,
+        "fall": "Found",
+        "recclass": "Mesosiderite-A1",
+        "marker-color": "#83d554",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1,
+          -25.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Vernon",
+        "mass": 159000,
+        "year": 1868,
+        "id": 16806,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#ebfe62",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4,
+          36.93333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mrirt",
+        "mass": 79900,
+        "year": 1937,
+        "id": 16819,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#bbe2aa",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.56667,
+          33.13333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mundrabilla",
+        "mass": 24000000,
+        "year": 1911,
+        "id": 16852,
+        "fall": "Found",
+        "recclass": "Iron, IAB-ung",
+        "marker-color": "#310932",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.55,
+          -30.78333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mungindi",
+        "mass": 51300,
+        "year": 1897,
+        "id": 16872,
+        "fall": "Found",
+        "recclass": "Iron, IAB-sLM",
+        "marker-color": "#71e454",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.95,
+          -28.93333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muonionalusta",
+        "mass": 230000,
+        "year": 1906,
+        "id": 16873,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#11987b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1,
+          67.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murnpeowie",
+        "mass": 1143000,
+        "year": 1909,
+        "id": 16878,
+        "fall": "Found",
+        "recclass": "Iron, IC",
+        "marker-color": "#efa92a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9,
+          -29.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nantan",
+        "mass": 9500000,
+        "year": 1958,
+        "id": 16906,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#f521f1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7,
+          25.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navajo",
+        "mass": 2184000,
+        "year": 1921,
+        "id": 16926,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#4dbebb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5,
+          35.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson County",
+        "mass": 73030,
+        "year": 1856,
+        "id": 16942,
+        "fall": "Found",
+        "recclass": "Iron, IIIF",
+        "marker-color": "#63a9be",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5,
+          37.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ness County (1894)",
+        "mass": 82000,
+        "year": 1894,
+        "id": 16946,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#894dc8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6,
+          38.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Netscha\u00ebvo",
+        "mass": 250000,
+        "year": 1846,
+        "id": 16949,
+        "fall": "Found",
+        "recclass": "Iron, IIE-an",
+        "marker-color": "#aa3e0d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15,
+          54.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicol\u00e1s Levalle",
+        "mass": 60000,
+        "year": 1956,
+        "id": 52413,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#9af4eb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.87889,
+          -38.85028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Chile",
+        "mass": 300000,
+        "year": 1875,
+        "id": 17001,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#d63435",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0,
+          -23.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northbranch",
+        "mass": 76000,
+        "year": 1972,
+        "id": 17010,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#f12b47",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.34167,
+          39.99167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northwest Africa 1581",
+        "mass": 50200,
+        "year": 2001,
+        "id": 17340,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#c37429",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25,
+          31.38333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nova Petropolis",
+        "mass": 305000,
+        "year": 1967,
+        "id": 17928,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#41f777",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.91667,
+          -29.43333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oakley (iron)",
+        "mass": 111000,
+        "year": 1926,
+        "id": 17972,
+        "fall": "Found",
+        "recclass": "Iron, IIIF",
+        "marker-color": "#b18fa6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7,
+          42.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odessa (iron)",
+        "mass": 1600000,
+        "year": 1922,
+        "id": 17985,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#134675",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4,
+          31.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Woman",
+        "mass": 2753000,
+        "year": 1976,
+        "id": 18007,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#0274af",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.23333,
+          34.46667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orange River (iron)",
+        "mass": 148800,
+        "year": 1855,
+        "id": 18023,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#720b68",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          -30.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Owasco",
+        "mass": 168400,
+        "year": 1984,
+        "id": 18060,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#a15977",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.68333,
+          41.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Owens Valley",
+        "mass": 192800,
+        "year": 1913,
+        "id": 18061,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#5df5e4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0,
+          37.46667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ozona",
+        "mass": 127500,
+        "year": 1929,
+        "id": 18066,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#fd490a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3,
+          30.73333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pallasovka",
+        "mass": 198000,
+        "year": 1990,
+        "id": 34061,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#6d5529",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.61167,
+          49.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmas de Monte Alto",
+        "mass": 97000,
+        "year": 1954,
+        "id": 48959,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#f5f698",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.02278,
+          -14.3675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Para de Minas",
+        "mass": 116300,
+        "year": 1934,
+        "id": 18099,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#5db570",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.61667,
+          -19.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patos de Minas (octahedrite)",
+        "mass": 200000,
+        "year": 1925,
+        "id": 18114,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#5b0f9a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.53333,
+          -18.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pei Xian",
+        "mass": 400000,
+        "year": 1917,
+        "id": 18784,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#744d84",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0,
+          34.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piedade do Bagre",
+        "mass": 59000,
+        "year": 1922,
+        "id": 18817,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#be5e74",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.98333,
+          -18.94167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pierceville (iron)",
+        "mass": 100000,
+        "year": 1917,
+        "id": 18819,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#1d444d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.66667,
+          37.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plainview (1917)",
+        "mass": 700000,
+        "year": 1917,
+        "id": 18841,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#ea93b6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78333,
+          34.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Alegre",
+        "mass": 200000,
+        "year": 2005,
+        "id": 52091,
+        "fall": "Found",
+        "recclass": "Iron, IIIE",
+        "marker-color": "#466c2a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.23,
+          -30.03306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potter",
+        "mass": 261000,
+        "year": 1941,
+        "id": 18878,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#0a56ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3,
+          41.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prambanan",
+        "mass": 500000,
+        "year": 1797,
+        "id": 18884,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#c453e7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.83333,
+          -7.56667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qijiaojing",
+        "mass": 160000,
+        "year": 2003,
+        "id": 54610,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#b00759",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.91667,
+          43.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quijingue",
+        "mass": 59000,
+        "year": 1984,
+        "id": 22362,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#dfd3de",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.21667,
+          -10.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quinn Canyon",
+        "mass": 1450000,
+        "year": 1908,
+        "id": 22364,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#775d63",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.53333,
+          38.08333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rateldraai",
+        "mass": 549000,
+        "year": 1909,
+        "id": 22397,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#41f8be",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.13333,
+          -28.83333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red River",
+        "mass": 800000,
+        "year": 1808,
+        "id": 22548,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#9fe4ef",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0,
+          32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renfrow",
+        "mass": 81600,
+        "year": 1986,
+        "id": 22588,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#ccbf01",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.555,
+          36.98667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Retuerta del Bullaque",
+        "mass": 100000,
+        "year": 1980,
+        "id": 56577,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#6f9d9a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3775,
+          39.45889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richland",
+        "mass": 50600,
+        "year": 1951,
+        "id": 22601,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#53079d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4,
+          31.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rifle",
+        "mass": 102700,
+        "year": 1948,
+        "id": 22605,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#e5185f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.83333,
+          38.51667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Limay",
+        "mass": 280000,
+        "year": 1995,
+        "id": 22609,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#232799",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48333,
+          -39.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roebourne",
+        "mass": 86860,
+        "year": 1892,
+        "id": 22644,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#93c062",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0,
+          -22.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosebud",
+        "mass": 54900,
+        "year": 1915,
+        "id": 22767,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#df8074",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.05,
+          30.81667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruff's Mountain",
+        "mass": 53070,
+        "year": 1844,
+        "id": 22779,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#b45820",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4,
+          34.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacramento Mountains",
+        "mass": 237200,
+        "year": 1890,
+        "id": 22794,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#0b09bd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.66667,
+          32.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Aubin",
+        "mass": 472000,
+        "year": 1968,
+        "id": 23096,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#98b3e6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.58333,
+          48.48333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Angelo",
+        "mass": 88000,
+        "year": 1897,
+        "id": 23117,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#00b0e6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.35,
+          31.41667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanclerlandia",
+        "mass": 279000,
+        "year": 1971,
+        "id": 23132,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#9417fc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3,
+          -16.21667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Apolonia",
+        "mass": 1316000,
+        "year": 1872,
+        "id": 23160,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#766377",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3,
+          19.21667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Catharina",
+        "mass": 7000000,
+        "year": 1875,
+        "id": 23162,
+        "fall": "Found",
+        "recclass": "Iron, IAB-ung",
+        "marker-color": "#e91568",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6,
+          -26.21667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Clara",
+        "mass": 63000,
+        "year": 1976,
+        "id": 23163,
+        "fall": "Found",
+        "recclass": "Iron, IVB",
+        "marker-color": "#bbc4c2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35,
+          24.46667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Luzia",
+        "mass": 1918000,
+        "year": 1921,
+        "id": 23166,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#14e935",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.95,
+          -16.26667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Rosa",
+        "mass": 825000,
+        "year": 1810,
+        "id": 23167,
+        "fall": "Found",
+        "recclass": "Iron, IC",
+        "marker-color": "#90c45e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0,
+          5.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago Papasquiero",
+        "mass": 119500,
+        "year": 1958,
+        "id": 23169,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#954878",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0,
+          24.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Vitoria do Palmar",
+        "mass": 50400,
+        "year": 2003,
+        "id": 35478,
+        "fall": "Found",
+        "recclass": "L3",
+        "marker-color": "#2d679a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.41083,
+          -33.50944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00e3o Juli\u00e3o de Moreira",
+        "mass": 162000,
+        "year": 1883,
+        "id": 23172,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#755277",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.58361,
+          41.76611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sardis",
+        "mass": 800000,
+        "year": 1940,
+        "id": 23177,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#8a3de6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.865,
+          32.94889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savannah",
+        "mass": 60000,
+        "year": 1923,
+        "id": 23189,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#56139c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18333,
+          35.16667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sayh al Uhaymir 001",
+        "mass": 450000,
+        "year": 2000,
+        "id": 23193,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#f50d26",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.66667,
+          20.51667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scurry",
+        "mass": 118000,
+        "year": 1937,
+        "id": 23468,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#884900",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0,
+          32.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seel\u00e4sgen",
+        "mass": 102000,
+        "year": 1847,
+        "id": 23474,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#83579b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.55,
+          52.26667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selma",
+        "mass": 140600,
+        "year": 1906,
+        "id": 23486,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#b0b994",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0,
+          32.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seymchan",
+        "mass": 323300,
+        "year": 1967,
+        "id": 23510,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG",
+        "marker-color": "#a685ab",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.43333,
+          62.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shangdu",
+        "mass": 247000,
+        "year": 1957,
+        "id": 23523,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#22bf22",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0,
+          42.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sierra Colorada",
+        "mass": 71300,
+        "year": 1995,
+        "id": 23588,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#a0a603",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.48333,
+          -40.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Signal Mountain",
+        "mass": 63500,
+        "year": 1919,
+        "id": 23592,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#327b64",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5,
+          32.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smithonia",
+        "mass": 69900,
+        "year": 1940,
+        "id": 23651,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#c7acac",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16667,
+          34.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smithville",
+        "mass": 70500,
+        "year": 1840,
+        "id": 23654,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#e27a31",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85,
+          35.98333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Social Circle",
+        "mass": 99300,
+        "year": 1927,
+        "id": 23659,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#7de638",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7,
+          33.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soledade",
+        "mass": 68000,
+        "year": 1986,
+        "id": 23662,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#60c309",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.43333,
+          -29.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Dahna",
+        "mass": 275000,
+        "year": 1957,
+        "id": 23677,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#5447bf",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3,
+          22.56667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springwater",
+        "mass": 67600,
+        "year": 1931,
+        "id": 23692,
+        "fall": "Found",
+        "recclass": "Pallasite, PMG-an",
+        "marker-color": "#0c507b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3,
+          52.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ssyromolotovo",
+        "mass": 217000,
+        "year": 1873,
+        "id": 23694,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#88a9ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.93333,
+          58.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Genevieve County",
+        "mass": 244500,
+        "year": 1888,
+        "id": 23086,
+        "fall": "Found",
+        "recclass": "Iron, IIIF",
+        "marker-color": "#fafa12",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31667,
+          37.96667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steinbach",
+        "mass": 98000,
+        "year": 1724,
+        "id": 23722,
+        "fall": "Found",
+        "recclass": "Iron, IVA-an",
+        "marker-color": "#598137",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          50.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sychevka",
+        "mass": 65000,
+        "year": 1988,
+        "id": 23772,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#88ee44",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.495,
+          51.125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tafassasset",
+        "mass": 114000,
+        "year": 2000,
+        "id": 23779,
+        "fall": "Found",
+        "recclass": "CR-an",
+        "marker-color": "#3dcda3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.44167,
+          20.76333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamarugal",
+        "mass": 320000,
+        "year": 1903,
+        "id": 23794,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#96abed",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66667,
+          -20.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tambo Quemado",
+        "mass": 141000,
+        "year": 1950,
+        "id": 23797,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#559e36",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5,
+          -14.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamentit",
+        "mass": 510000,
+        "year": 1864,
+        "id": 23798,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#eb77ca",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25,
+          27.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamir-Tsetserleg",
+        "mass": 173000,
+        "year": 1956,
+        "id": 23799,
+        "fall": "Found",
+        "recclass": "Stone-uncl",
+        "marker-color": "#5a5b80",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.47917,
+          47.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanezrouft 072",
+        "mass": 62285,
+        "year": 2002,
+        "id": 31333,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#2fc93f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.103,
+          24.43817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanokami Mountain",
+        "mass": 174000,
+        "year": 1885,
+        "id": 23872,
+        "fall": "Found",
+        "recclass": "Iron, IIIE",
+        "marker-color": "#beccfb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.96667,
+          34.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tawallah Valley",
+        "mass": 75750,
+        "year": 1939,
+        "id": 23889,
+        "fall": "Found",
+        "recclass": "Iron, IVB",
+        "marker-color": "#b481e7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.66667,
+          -15.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thunda",
+        "mass": 62100,
+        "year": 1881,
+        "id": 23978,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#928ad8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.05,
+          -25.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tianlin",
+        "mass": 300000,
+        "year": 1956,
+        "id": 23983,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#b2d104",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1,
+          24.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiberrhamine",
+        "mass": 107000,
+        "year": 1967,
+        "id": 23985,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#b1228a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.53333,
+          28.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tlacotepec",
+        "mass": 71000,
+        "year": 1903,
+        "id": 24013,
+        "fall": "Found",
+        "recclass": "Iron, IVB",
+        "marker-color": "#e58cc3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.55,
+          18.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tishomingo",
+        "mass": 260000,
+        "year": 1965,
+        "id": 24010,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#582256",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.68333,
+          34.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toluca",
+        "mass": 3000000,
+        "year": 1776,
+        "id": 24018,
+        "fall": "Found",
+        "recclass": "Iron, IAB-sLL",
+        "marker-color": "#acf572",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.56667,
+          19.56667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trenton",
+        "mass": 505000,
+        "year": 1858,
+        "id": 24045,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#9b68a3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13333,
+          43.36667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Travis County (a)",
+        "mass": 175400,
+        "year": 1889,
+        "id": 24040,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#54aa01",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7,
+          30.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toufassour",
+        "mass": 73300,
+        "year": 2007,
+        "id": 47702,
+        "fall": "Found",
+        "recclass": "Mesosiderite",
+        "marker-color": "#c734a9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7493,
+          29.65225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tres Castillos",
+        "mass": 150000,
+        "year": 1992,
+        "id": 24047,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#421372",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8,
+          29.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsarev",
+        "mass": 1225300,
+        "year": 1968,
+        "id": 24058,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#a37ccc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7,
+          48.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucson",
+        "mass": 975000,
+        "year": 1850,
+        "id": 24061,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#6e4278",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.96667,
+          31.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulia (a)",
+        "mass": 86000,
+        "year": 1917,
+        "id": 24066,
+        "fall": "Found",
+        "recclass": "H3-4",
+        "marker-color": "#feed80",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95,
+          34.61667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uegit",
+        "mass": 252000,
+        "year": 1921,
+        "id": 24105,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#fb7daf",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.33333,
+          3.81667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unter-M\u00e4ssing",
+        "mass": 80000,
+        "year": 1920,
+        "id": 24124,
+        "fall": "Found",
+        "recclass": "Iron, IIC",
+        "marker-color": "#149a1d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33333,
+          49.09028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urua\u00e7u",
+        "mass": 72500,
+        "year": 1992,
+        "id": 24131,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#7cca26",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.76667,
+          -14.53333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uwet",
+        "mass": 54000,
+        "year": 1903,
+        "id": 24138,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#5fb9e8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25,
+          5.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uwharrie",
+        "mass": 72700,
+        "year": 1930,
+        "id": 24139,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#9d22c0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96667,
+          35.51667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaca Muerta",
+        "mass": 3828000,
+        "year": 1861,
+        "id": 24142,
+        "fall": "Found",
+        "recclass": "Mesosiderite-A1",
+        "marker-color": "#21b1f9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5,
+          -25.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vera",
+        "mass": 80000,
+        "year": 1941,
+        "id": 24161,
+        "fall": "Found",
+        "recclass": "L/LL4",
+        "marker-color": "#0f65d2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.28333,
+          -29.91667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wabar",
+        "mass": 2550000,
+        "year": 1863,
+        "id": 24194,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#08aa34",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.47222,
+          21.49972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wagon Mound",
+        "mass": 87500,
+        "year": 1932,
+        "id": 24196,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#d842d8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.58583,
+          35.84083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallapai",
+        "mass": 430000,
+        "year": 1927,
+        "id": 24206,
+        "fall": "Found",
+        "recclass": "Iron, IID",
+        "marker-color": "#9cfec7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7,
+          35.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walker County",
+        "mass": 74800,
+        "year": 1832,
+        "id": 24204,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#3cf179",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16667,
+          34.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warburton Range",
+        "mass": 56930,
+        "year": 1963,
+        "id": 24212,
+        "fall": "Found",
+        "recclass": "Iron, IVB",
+        "marker-color": "#e3cc01",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66667,
+          -26.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watson 001",
+        "mass": 93000,
+        "year": 1972,
+        "id": 24221,
+        "fall": "Found",
+        "recclass": "Iron, IIE",
+        "marker-color": "#147a64",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.55,
+          -30.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weekeroo Station",
+        "mass": 94200,
+        "year": 1924,
+        "id": 24230,
+        "fall": "Found",
+        "recclass": "Iron, IIE-an",
+        "marker-color": "#e2a247",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86667,
+          -32.26667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellman (a)",
+        "mass": 55000,
+        "year": 1940,
+        "id": 24237,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#eb7b7b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.33333,
+          33.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wichita County",
+        "mass": 145000,
+        "year": 1836,
+        "id": 24257,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#158d53",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.91667,
+          34.06667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wildara",
+        "mass": 500000,
+        "year": 1968,
+        "id": 24265,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#f025f7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85,
+          -28.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willamette",
+        "mass": 15500000,
+        "year": 1902,
+        "id": 24269,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#4a2c55",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58333,
+          45.36667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow Creek",
+        "mass": 51000,
+        "year": 1914,
+        "id": 24276,
+        "fall": "Found",
+        "recclass": "Iron, IIIE",
+        "marker-color": "#c3d72b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.76667,
+          43.46667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiltshire",
+        "mass": 92750,
+        "year": "",
+        "id": 56143,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#639692",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81,
+          51.14967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolf Creek",
+        "mass": 760000,
+        "year": 1947,
+        "id": 24326,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#aa92c6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.76667,
+          -19.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolsey",
+        "mass": 74830,
+        "year": 1981,
+        "id": 24328,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#7685cb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.53333,
+          44.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wooramel",
+        "mass": 71000,
+        "year": 1969,
+        "id": 24335,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#d8040b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21667,
+          -25.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wu-chu-mu-ch'in",
+        "mass": 68860,
+        "year": 1920,
+        "id": 24341,
+        "fall": "Found",
+        "recclass": "Iron, IAB-ung",
+        "marker-color": "#c15f03",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0,
+          45.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xifu",
+        "mass": 3000000,
+        "year": 2004,
+        "id": 54608,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#f9cfef",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48333,
+          36.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xinyi",
+        "mass": 69000,
+        "year": 1975,
+        "id": 24347,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#deb0ce",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.33333,
+          34.36667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yanhuitlan",
+        "mass": 421000,
+        "year": 1825,
+        "id": 30349,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#d7b821",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.35,
+          17.53333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yelland Dry Lake",
+        "mass": 76000,
+        "year": 2007,
+        "id": 52641,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f0f394",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.40783,
+          39.35067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yenberrie",
+        "mass": 132000,
+        "year": 1918,
+        "id": 30361,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#160da8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.01667,
+          -14.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yingde",
+        "mass": 3000000,
+        "year": 1964,
+        "id": 30363,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#1bc349",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.4,
+          24.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yongning",
+        "mass": 60000,
+        "year": 1971,
+        "id": 30365,
+        "fall": "Found",
+        "recclass": "Iron, IAB-ung",
+        "marker-color": "#0b2cad",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.33333,
+          22.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youanmi",
+        "mass": 118400,
+        "year": 1917,
+        "id": 30373,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#bbfdd5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75,
+          -29.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youndegin",
+        "mass": 3800000,
+        "year": 1884,
+        "id": 30374,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#712ec8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.71667,
+          -32.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youxi",
+        "mass": 218000,
+        "year": 2006,
+        "id": 55793,
+        "fall": "Found",
+        "recclass": "Mesosiderite-C",
+        "marker-color": "#85e192",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.01,
+          26.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ysleta",
+        "mass": 140700,
+        "year": 1914,
+        "id": 30375,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#d9068f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.18333,
+          31.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zacatecas (1792)",
+        "mass": 1000000,
+        "year": 1792,
+        "id": 30381,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#808404",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.56667,
+          22.81667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zapaliname",
+        "mass": 85000,
+        "year": 1998,
+        "id": 30392,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#036d9c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.75,
+          25.00944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaragoza",
+        "mass": 162000,
+        "year": "",
+        "id": 48916,
+        "fall": "Found",
+        "recclass": "Iron, IVA-an",
+        "marker-color": "#cb593a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86667,
+          41.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zerhamra",
+        "mass": 630000,
+        "year": 1967,
+        "id": 30403,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB-an",
+        "marker-color": "#12ee55",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.645,
+          29.85861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhigansk",
+        "mass": 900000,
+        "year": 1966,
+        "id": 30405,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#998ca7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.3,
+          68.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhongxiang",
+        "mass": 100000,
+        "year": 1981,
+        "id": 30406,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#b4dbb0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5,
+          31.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhaoping",
+        "mass": 2000000,
+        "year": 1983,
+        "id": 54609,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#4e21e1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.18333,
+          24.23333
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meteor Crater",
+        "description": "Impact site in Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0225,
+          35.0272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Approach Path",
+        "description": "Estimated trajectory of the meteor"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.5,
+            35.5
+          ],
+          [
+            -111.2,
+            35.3
+          ],
+          [
+            -111.0225,
+            35.0272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blast Zone",
+        "description": "Approximate affected area around the crater"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.1,
+              35.1
+            ],
+            [
+              -110.9,
+              35.1
+            ],
+            [
+              -110.9,
+              34.9
+            ],
+            [
+              -111.1,
+              34.9
+            ],
+            [
+              -111.1,
+              35.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aarhus",
+        "mass": 720,
+        "year": 1951,
+        "id": 2,
+        "fall": "Fell",
+        "recclass": "H6",
+        "marker-color": "#d879db",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.23333,
+          56.18333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abee",
+        "mass": 107000,
+        "year": 1952,
+        "id": 6,
+        "fall": "Fell",
+        "recclass": "EH4",
+        "marker-color": "#3e80e6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0,
+          54.21667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adzhi-Bogdo (stone)",
+        "mass": 910,
+        "year": 1949,
+        "id": 390,
+        "fall": "Fell",
+        "recclass": "LL3-6",
+        "marker-color": "#89ae26",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.16667,
+          44.83333
+        ]
+      }
+    }
+  ]
+}
