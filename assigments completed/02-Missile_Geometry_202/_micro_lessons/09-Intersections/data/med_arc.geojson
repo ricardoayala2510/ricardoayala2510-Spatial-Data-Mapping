@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Mediterranean Arc"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        2.352,
+        48.857
+      ],
+      [
+        12.492,
+        41.89
+      ],
+      [
+        23.727,
+        37.983
+      ],
+      [
+        28.979,
+        41.015
+      ],
+      [
+        31.236,
+        30.044
+      ]
+    ]
+  }
+}
