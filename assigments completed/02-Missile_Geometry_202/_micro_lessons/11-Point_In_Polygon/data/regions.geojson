@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector Alpha",
+        "description": "Northern Gulf / Iran"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              34
+            ],
+            [
+              58,
+              34
+            ],
+            [
+              58,
+              42
+            ],
+            [
+              42,
+              42
+            ],
+            [
+              42,
+              34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector Bravo",
+        "description": "Arabian Peninsula"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              22
+            ],
+            [
+              58,
+              22
+            ],
+            [
+              58,
+              34
+            ],
+            [
+              42,
+              34
+            ],
+            [
+              42,
+              22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector Charlie",
+        "description": "Levant / Eastern Mediterranean"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              33
+            ],
+            [
+              42,
+              33
+            ],
+            [
+              42,
+              40
+            ],
+            [
+              26,
+              40
+            ],
+            [
+              26,
+              33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector Delta",
+        "description": "Egypt / North Africa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24,
+              22
+            ],
+            [
+              42,
+              22
+            ],
+            [
+              42,
+              33
+            ],
+            [
+              24,
+              33
+            ],
+            [
+              24,
+              22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector Echo",
+        "description": "Arabian Sea Coast"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56,
+              10
+            ],
+            [
+              75,
+              10
+            ],
+            [
+              75,
+              24
+            ],
+            [
+              56,
+              24
+            ],
+            [
+              56,
+              10
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
