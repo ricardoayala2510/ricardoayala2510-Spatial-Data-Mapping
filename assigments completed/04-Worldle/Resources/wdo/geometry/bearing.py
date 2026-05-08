@@ -42,5 +42,34 @@ def bearing_difference(b1: float, b2: float) -> float:
 
 
 def destination_point(p, bearing_deg, distance_km):
-    """Compute destination from point, bearing, and distance."""
-    raise NotImplementedError
+    """Compute destination from point, bearing, and distance.
+
+    Args:
+        p: starting point as (lat, lon)
+        bearing_deg: bearing angle in degrees
+        distance_km: distance to travel in kilometers
+
+    Returns:
+        destination point as (lat, lon)
+    """
+    radius_km = 6371.0
+
+    lat1, lon1 = map(math.radians, p)
+    bearing = math.radians(bearing_deg)
+
+    angular_distance = distance_km / radius_km
+
+    lat2 = math.asin(
+        math.sin(lat1) * math.cos(angular_distance)
+        + math.cos(lat1) * math.sin(angular_distance) * math.cos(bearing)
+    )
+
+    lon2 = lon1 + math.atan2(
+        math.sin(bearing) * math.sin(angular_distance) * math.cos(lat1),
+        math.cos(angular_distance) - math.sin(lat1) * math.sin(lat2),
+    )
+
+    return (
+        math.degrees(lat2),
+        normalize_bearing(math.degrees(lon2) + 180) - 180,
+    )

@@ -47,10 +47,48 @@ def pairwise_distances(points):
 
 
 def distance_to_feature(point, feature):
-    """Distance from point to a representative point of a feature."""
-    raise NotImplementedError
+    """Distance from point to a representative point of a feature.
+
+    Args:
+        point: (lat, lon)
+        feature: GeoJSON feature
+
+    Returns:
+        Great-circle distance in kilometers.
+    """
+    from wdo.geometry.bbox import bbox_from_feature
+
+    min_lon, min_lat, max_lon, max_lat = bbox_from_feature(feature)
+
+    feature_center = (
+        (min_lat + max_lat) / 2,
+        (min_lon + max_lon) / 2,
+    )
+
+    return haversine_km(point, feature_center)
 
 
 def nearest_feature(point, features):
-    """Return nearest feature and distance."""
-    raise NotImplementedError
+    """Return nearest feature and distance.
+
+    Args:
+        point: (lat, lon)
+        features: list of GeoJSON features
+
+    Returns:
+        tuple: (nearest_feature, nearest_distance_km)
+    """
+    if not features:
+        raise ValueError("features list is empty.")
+
+    nearest = None
+    nearest_distance = None
+
+    for feature in features:
+        distance = distance_to_feature(point, feature)
+
+        if nearest_distance is None or distance < nearest_distance:
+            nearest = feature
+            nearest_distance = distance
+
+    return nearest, nearest_distance
