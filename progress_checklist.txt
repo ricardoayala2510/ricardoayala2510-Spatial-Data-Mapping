@@ -7,92 +7,49 @@
 completed_assignments/
 ├── 01-Python_Foundations/
 │   ├── 01-Working_with_Data_Basic/
-│   │   ├── Assessments/
-│   │   │   └── ❌ 02a-mini_quiz.ipynb
-│   │   └── Lessons/
-│   │       ├── 01-Lists/
-│   │       │   └── ❌ 01-Lists.ipynb
-│   │       ├── 02-Tuples/
-│   │       │   └── ❌ 02-Tuples.ipynb
-│   │       ├── 03-Data_Types_and_Arithmetic/
-│   │       │   └── ❌ 03-Data_Types_and_Arithmetic.ipynb
-│   │       └── 03-Dictionaries/
-│   │           └── ❌ 03-Dictionaries.ipynb
+│   │   ├── ✅ 01-Lists.ipynb
+│   │   ├── ✅ 02-Tuples.ipynb
+│   │   ├── ✅ 02a-mini_quiz.ipynb
+│   │   ├── ✅ 03-Data_Types_and_Arithmetic.ipynb
+│   │   └── ✅ 03-Dictionaries.ipynb
 │   ├── 02-Scalar_Types_and_Control_Flow/
-│   │   ├── 01-Scalar_Types/
-│   │   │   └── ❌ 01-Scalar_Types.ipynb
-│   │   ├── Assessments/
-│   │   │   └── ❌ mini_quiz.ipynb
-│   │   └── Lessons/
-│   │       └── 02-Control_Flow/
-│   │           └── ❌ 02-Control_Flow.ipynb
+│   │   ├── ✅ 01-Scalar_Types.ipynb
+│   │   ├── ✅ 02-Control_Flow.ipynb
+│   │   └── ✅ mini_quiz.ipynb
 │   ├── 03-Loops_and_Iteration/
-│   │   ├── Assessments/
-│   │   │   └── ❌ mini_quiz.ipynb
-│   │   └── Lessons/
-│   │       ├── 01-For_Loops/
-│   │       │   └── ❌ 01-For_Loops.ipynb
-│   │       ├── 02-While_loops/
-│   │       │   └── ❌ 02-While_Loops.ipynb
-│   │       └── 03-File_Loops_and_With/
-│   │           └── ❌ 03-File_Loops_and_With.ipynb
+│   │   ├── ✅ 01-For_Loops.ipynb
+│   │   ├── ✅ 02-While_Loops.ipynb
+│   │   ├── ✅ 03-File_Loops_and_With.ipynb
+│   │   └── ✅ mini_quiz.ipynb
 │   ├── 04-Foundations/
-│   │   ├── Assessments/
-│   │   │   ├── ❌ 01-Foundations_Quiz.ipynb
-│   │   │   └── ❌ 02-mini_quiz.ipynb
-│   │   └── Lessons/
-│   │       ├── 01-Magic_Commands/
-│   │       │   └── ❌ 01-magic_commands.ipynb
-│   │       ├── 02-Markdown_and_Formatting/
-│   │       │   └── ❌ 02-Markdown_and_Formatting.ipynb
-│   │       ├── 03-Work_With_Files/
-│   │       │   └── ❌ 03-Work_With_Files.ipynb
-│   │       ├── 04-Data_Input_Output/
-│   │       │   └── ❌ 04-Data_Input_Output.ipynb
-│   │       ├── 05-Plotting_Basics/
-│   │       │   └── ❌ 05-Plotting_Basics.ipynb
-│   │       ├── 06-Jupyter_Shortcuts_and_Productivity/
-│   │       │   └── ❌ 06-Jupyter_Shortcuts_and_Productivity.ipynb
-│   │       ├── 07-Using_Help_and_Docs/
-│   │       │   └── ❌ 07-Using_Help_and_Docs.ipynb
-│   │       └── 08-Timing_and_Performance/
-│   │           └── ❌ 08-Timing_and_Performance.ipynb
+│   │   ├── ✅ 01-Foundations_Quiz.ipynb
+│   │   ├── ✅ 01-magic_commands.ipynb
+│   │   ├── ✅ 02-Markdown_and_Formatting.ipynb
+│   │   ├── ✅ 02-mini_quiz.ipynb
+│   │   ├── ✅ 03-Work_With_Files.ipynb
+│   │   ├── ✅ 04-Data_Input_Output.ipynb
+│   │   ├── ✅ 05-Plotting_Basics.ipynb
+│   │   ├── ✅ 06-Jupyter_Shortcuts_and_Productivity.ipynb
+│   │   ├── ✅ 07-Using_Help_and_Docs.ipynb
+│   │   └── ✅ 08-Timing_and_Performance.ipynb
 │   ├── 05-Working_with_Data_Adv/
-│   │   ├── Assessments/
-│   │   │   └── ❌ mini_quiz.ipynb
-│   │   └── Lessons/
-│   │       ├── 01-Lists_Dicts_and_Tuples/
-│   │       │   └── ❌ 01-Lists_Dicts_and_Tuples.ipynb
-│   │       ├── 02-Pandas_Series_and_Dataframes/
-│   │       │   └── ❌ 02-Pandas_Series_and_Dataframes.ipynb
-│   │       ├── 03-Loading_and_Exploring_Eata/
-│   │       │   └── ❌ 03-Loading_and_Exploring_Eata.ipynb
-│   │       ├── 04-Indexing_and_Selection/
-│   │       │   └── ❌ 04-Indexing_and_Selection.ipynb
-│   │       ├── 05-Basic_Cleaning/
-│   │       │   └── ❌ 05-Basic_Cleaning.ipynb
-│   │       ├── 06-Column_Operations/
-│   │       │   └── ❌ 06-Column_Operations.ipynb
-│   │       ├── 07-Sorting_and_Filtering/
-│   │       │   └── ❌ 07-Sorting_and_Filtering.ipynb
-│   │       ├── 08-Pandas_Wrangle_Lab/
-│   │       │   └── ❌ 08-Pandas_Wrangle_Lab.ipynb
-│   │       └── 09-Survey_Cleaning_Assignment/
-│   │           └── ❌ 09-Survey_Cleaning_Assignment.ipynb
+│   │   ├── ✅ 01-Lists_Dicts_and_Tuples.ipynb
+│   │   ├── ✅ 02-Pandas_Series_and_Dataframes.ipynb
+│   │   ├── ✅ 03-Loading_and_Exploring_Eata.ipynb
+│   │   ├── ✅ 04-Indexing_and_Selection.ipynb
+│   │   ├── ✅ 05-Basic_Cleaning.ipynb
+│   │   ├── ✅ 06-Column_Operations.ipynb
+│   │   ├── ✅ 07-Sorting_and_Filtering.ipynb
+│   │   ├── ✅ 08-Pandas_Wrangle_Lab.ipynb
+│   │   ├── ✅ 09-Survey_Cleaning_Assignment.ipynb
+│   │   └── ✅ mini_quiz.ipynb
 │   └── 06-Describing_and_Visualizing_Data/
-│       ├── Assessments/
-│       │   └── ❌ mini_quiz.ipynb
-│       └── Lessons/
-│           ├── 01-Types_of_Data/
-│           │   └── ❌ 01-Types_of_Data.ipynb
-│           ├── 02-Summary_Statistics/
-│           │   └── ❌ 02-Summary_Statistics.ipynb
-│           ├── 03-Matplotlib_Basics/
-│           │   └── ❌ 03-Matplotlib_Basics.ipynb
-│           ├── 04-Seaborn_Basics/
-│           │   └── ❌ 04-Seaborn_Basics.ipynb
-│           └── 05-Visualization_MiniLab/
-│               └── ❌ 05-Visualization_MiniLab.ipynb
+│       ├── ✅ 01-Types_of_Data.ipynb
+│       ├── ✅ 02-Summary_Statistics.ipynb
+│       ├── ❌ 03-Matplotlib_Basics.ipynb
+│       ├── ❌ 04-Seaborn_Basics.ipynb
+│       ├── ✅ 05-Visualization_MiniLab.ipynb
+│       └── ✅ mini_quiz.ipynb
 ├── 02-Missile_Geometry_101/
 │   ├── ✅ setup.ipynb
 │   └── _micro_lessons/
@@ -219,28 +176,26 @@ completed_assignments/
 ============================================================
 
 completed_assignments/
-├── 01-foundations
+├── 01-Python_Foundations
 │   ├── 01-Working_with_Data_Basic
 │   │   ├── 01-Lists.ipynb
-│   │   ├── 02-Python Tuples.ipynb
+│   │   ├── 02-Tuples.ipynb
+│   │   ├── 02a-mini_quiz.ipynb
 │   │   ├── 03-Data_Types_and_Arithmetic.ipynb
 │   │   ├── 03-Dictionaries.ipynb
-│   │   ├── miquiz02completed.ipynb
 │   │   ├── quiz02b.md
 │   │   └── worksheet01completed.md
 │   ├── 02-Scalar_Types_and_Control_Flow
-│   │   ├── 01-Scalar_Types
-│   │   │   └── 01-Scalar_Types.ipynb
-│   │   ├── 02-Control_Flow
-│   │   │   └── 02-Control_Flow.ipynb
-│   │   ├── miniquiz.ipynb
+│   │   ├── 01-Scalar_Types.ipynb
+│   │   ├── 02-Control_Flow.ipynb
+│   │   ├── mini_quiz.ipynb
 │   │   ├── miniquiz.md
 │   │   └── woorksheet.md
 │   ├── 03-Loops_and_Iteration
 │   │   ├── 01-For_Loops.ipynb
 │   │   ├── 02-While_Loops.ipynb
 │   │   ├── 03-File_Loops_and_With.ipynb
-│   │   ├── miniquiz.ipynb
+│   │   ├── mini_quiz.ipynb
 │   │   ├── miniquiz.md
 │   │   ├── sample.txt
 │   │   └── woorksheet.md
@@ -248,6 +203,7 @@ completed_assignments/
 │   │   ├── 01-Foundations_Quiz.ipynb
 │   │   ├── 01-magic_commands.ipynb
 │   │   ├── 02-Markdown_and_Formatting.ipynb
+│   │   ├── 02-mini_quiz.ipynb
 │   │   ├── 03-Work_With_Files.ipynb
 │   │   ├── 04-Data_Input_Output.ipynb
 │   │   ├── 05-Plotting_Basics.ipynb
@@ -266,12 +222,13 @@ completed_assignments/
 │   │   ├── 02-Pandas_Series_and_Dataframes.ipynb
 │   │   ├── 03-Loading_and_Exploring_Eata.ipynb
 │   │   ├── 04-Indexing_and_Selection.ipynb
+│   │   ├── 05-Basic_Cleaning.ipynb
 │   │   ├── 06-Column_Operations.ipynb
 │   │   ├── 07-Sorting_and_Filtering.ipynb
 │   │   ├── 08-Pandas_Wrangle_Lab.ipynb
 │   │   ├── 09-Survey_Cleaning_Assignment.ipynb
-│   │   ├── 5-Basic_Cleaning.ipynb
 │   │   ├── d_students.csv
+│   │   ├── mini_quiz.ipynb
 │   │   ├── mini_titanic.csv
 │   │   ├── passengers.csv
 │   │   ├── student_scores_cleaned.csv
@@ -281,7 +238,8 @@ completed_assignments/
 │   ├── 06-Describing_and_Visualizing_Data
 │   │   ├── 01-Types_of_Data.ipynb
 │   │   ├── 02-Summary_Statistics.ipynb
-│   │   └── 05-Visualization_MiniLab.ipynb
+│   │   ├── 05-Visualization_MiniLab.ipynb
+│   │   └── mini_quiz.ipynb
 │   ├── courses.json
 │   ├── data.json
 │   ├── example.txt
@@ -1575,11 +1533,8 @@ completed_assignments/
     │   │   ├── PKG-INFO
     │   │   ├── SOURCES.txt
     │   │   └── top_level.txt
-    │   ├── GeoJsonRules.md
-    │   ├── Helpful_Links.md
     │   ├── meta.yaml
-    │   ├── pyproject.toml
-    │   └── README.md
+    │   └── pyproject.toml
     ├── README.md
     └── worldle.ipynb
 
@@ -1588,7 +1543,7 @@ completed_assignments/
 ============================================================
 
   01-Python_Foundations
-    0/38  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
+    36/38  [████████████████████████████████████░░]
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
@@ -1603,7 +1558,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 90/130 notebooks found
+  Total: 126/130 notebooks found
 
 
 ============================================================
