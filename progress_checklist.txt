@@ -46,8 +46,8 @@ completed_assignments/
 │   └── 06-Describing_and_Visualizing_Data/
 │       ├── ✅ 01-Types_of_Data.ipynb
 │       ├── ✅ 02-Summary_Statistics.ipynb
-│       ├── ❌ 03-Matplotlib_Basics.ipynb
-│       ├── ❌ 04-Seaborn_Basics.ipynb
+│       ├── ✅ 03-Matplotlib_Basics.ipynb
+│       ├── ✅ 04-Seaborn_Basics.ipynb
 │       ├── ✅ 05-Visualization_MiniLab.ipynb
 │       └── ✅ mini_quiz.ipynb
 ├── 02-Missile_Geometry_101/
@@ -238,6 +238,8 @@ completed_assignments/
 │   ├── 06-Describing_and_Visualizing_Data
 │   │   ├── 01-Types_of_Data.ipynb
 │   │   ├── 02-Summary_Statistics.ipynb
+│   │   ├── 03-Matplotlib_Basics.ipynb
+│   │   ├── 04-Seaborn_Basics.ipynb
 │   │   ├── 05-Visualization_MiniLab.ipynb
 │   │   └── mini_quiz.ipynb
 │   ├── courses.json
@@ -1543,7 +1545,7 @@ completed_assignments/
 ============================================================
 
   01-Python_Foundations
-    36/38  [████████████████████████████████████░░]
+    38/38  [██████████████████████████████████████]
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
@@ -1558,7 +1560,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 126/130 notebooks found
+  Total: 128/130 notebooks found
 
 
 ============================================================
