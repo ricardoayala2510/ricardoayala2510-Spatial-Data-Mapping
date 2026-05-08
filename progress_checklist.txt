@@ -96,16 +96,16 @@ completed_assignments/
 ├── 02-Missile_Geometry_101/
 │   ├── ✅ setup.ipynb
 │   └── _micro_lessons/
-│       ├── ❌ 00-Working_Directory.ipynb
-│       ├── ❌ 01-Data_Elsewhere.ipynb
-│       ├── ❌ 02-Viewing_Geojson.ipynb
-│       ├── ❌ 03-Style_W_Logic.ipynb
-│       ├── ❌ 04-Distance.ipynb
-│       ├── ❌ 05-Geo_and_Json_overview.ipynb
-│       ├── ❌ 06-Distances.ipynb
-│       ├── ❌ 07-InteractiveMaps.ipynb
-│       ├── ❌ 08-InstallingLocalLib.ipynb
-│       └── ❌ 09-YourOwnLibrary.ipynb
+│       ├── ✅ 00-Working_Directory.ipynb
+│       ├── ✅ 01-Data_Elsewhere.ipynb
+│       ├── ✅ 02-Viewing_Geojson.ipynb
+│       ├── ✅ 03-Style_W_Logic.ipynb
+│       ├── ✅ 04-Distance.ipynb
+│       ├── ✅ 05-Geo_and_Json_overview.ipynb
+│       ├── ✅ 06-Distances.ipynb
+│       ├── ✅ 07-InteractiveMaps.ipynb
+│       ├── ✅ 08-InstallingLocalLib.ipynb
+│       └── ✅ 09-YourOwnLibrary.ipynb
 ├── 02-Missile_Geometry_202/
 │   └── _micro_lessons/
 │       ├── 00-Paths/
@@ -290,6 +290,17 @@ completed_assignments/
 │   ├── me.txt
 │   └── scores.csv
 ├── 02-Missile_Geometry_101
+│   ├── _micro_lessons
+│   │   ├── 00-Working_Directory.ipynb
+│   │   ├── 01-Data_Elsewhere.ipynb
+│   │   ├── 02-Viewing_Geojson.ipynb
+│   │   ├── 03-Style_W_Logic.ipynb
+│   │   ├── 04-Distance.ipynb
+│   │   ├── 05-Geo_and_Json_overview.ipynb
+│   │   ├── 06-Distances.ipynb
+│   │   ├── 07-InteractiveMaps.ipynb
+│   │   ├── 08-InstallingLocalLib.ipynb
+│   │   └── 09-YourOwnLibrary.ipynb
 │   ├── data
 │   │   ├── country-by-datatype
 │   │   │   ├── country-by-landlocked.json
@@ -716,17 +727,6 @@ completed_assignments/
 │   │   ├── world_borders.zip
 │   │   ├── world_cities_by_time-zone.json
 │   │   └── world_cities_fixed.json
-│   ├── microlessons
-│   │   ├── 00-Working_Directory.ipynb
-│   │   ├── 01-Data_Elsewhere.ipynb
-│   │   ├── 02-Viewing_Geojson.ipynb
-│   │   ├── 03-Style_W_Logic.ipynb
-│   │   ├── 04-Distance.ipynb
-│   │   ├── 05-Geo_and_Json_overview.ipynb
-│   │   ├── 06-Distances.ipynb
-│   │   ├── 07-InteractiveMaps.ipynb
-│   │   ├── 08-InstallingLocalLib.ipynb
-│   │   └── 09-YourOwnLibrary.ipynb
 │   ├── outputs
 │   │   ├── screenshots
 │   │   │   ├── Milestone1 scree.png
@@ -1592,7 +1592,7 @@ completed_assignments/
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
-    1/11  [█░░░░░░░░░░]
+    11/11  [███████████]
     Goal: complete all 11 + include your working project
 
   02-Missile_Geometry_202
@@ -1603,7 +1603,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 80/130 notebooks found
+  Total: 90/130 notebooks found
 
 
 ============================================================

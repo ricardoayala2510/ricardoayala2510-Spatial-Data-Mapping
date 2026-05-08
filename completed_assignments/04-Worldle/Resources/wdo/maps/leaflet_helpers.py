@@ -1,4 +1,4 @@
-"""Small ipyleaflet helper functions used by the Worldle notebook."""
+
 
 
 def make_map(center=(0, 0), zoom=2, basemap=None, scroll_wheel_zoom=True):
